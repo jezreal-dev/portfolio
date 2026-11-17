@@ -1,0 +1,109 @@
+%PDF-1.4
+%ту╧╙
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R 9 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 4009 >>
+stream
+BT /F2 13.5 Tf 0 0 0 rg 44.0 756.0 Td (Make It Do Something - Dynamic Portfolio Feature & Explainer) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 44.0 740.0 Td (Intern: Jezreal Momoh \(jezreelmomoh1234@gmail.com\) | Track: General AI Fluency \(Week 6\) | Netlify Forms) Tj ET
+BT /F2 10.5 Tf 0 0 0 rg 44.0 722.9 Td (1. Executive Summary & Deliverable Links) Tj ET
+BT /F1 8.8 Tf 0 0 0 rg 44.0 709.4 Td (This project upgrades the personal static portfolio into an active, functional tool by wiring exactly one real backend) Tj ET
+BT /F1 8.8 Tf 0 0 0 rg 44.0 697.6 Td (feature on a free tier: a native, asynchronous Netlify Contact Form with honeypot spam protection and automated) Tj ET
+BT /F1 8.8 Tf 0 0 0 rg 44.0 685.8 Td (transactional email dispatch.) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 674.0 Td (Х  Live Site: https://jezreal-momoh-portfolio.netlify.app#contact) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 662.8 Td (Х  Repository: https://github.com/jezreal-dev/portfolio \(commit: 0f7b5bf\)) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 651.6 Td (Х  Verified Live Submission: Successfully processed on Netlify Forms \('contact'\) with honeypot validation active.) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 640.4 Td (Х  Email Notification: Configured and verified to forward submissions immediately to jezreelmomoh1234@gmail.com.) Tj ET
+BT /F2 10.5 Tf 0 0 0 rg 44.0 626.7 Td (2. Plain-Words Explainer: What a Backend Is) Tj ET
+BT /F1 8.8 Tf 0 0 0 rg 44.0 613.2 Td (A static webpage is like a printed poster hanging on a shop window. A visitor can read the text, appreciate the) Tj ET
+BT /F1 8.8 Tf 0 0 0 rg 44.0 601.4 Td (styling, and see an email address, but physically touching the poster cannot change anything inside the shop. In web) Tj ET
+BT /F1 8.8 Tf 0 0 0 rg 44.0 589.6 Td (development, that visual surface is the frontend: HTML structure, CSS layout, and client-side styling running in the) Tj ET
+BT /F1 8.8 Tf 0 0 0 rg 44.0 577.8 Td (user's browser.) Tj ET
+BT /F1 8.8 Tf 0 0 0 rg 44.0 566.0 Td (A backend is the kitchen behind the shop counter. It is the server-side computer program, application logic, and) Tj ET
+BT /F1 8.8 Tf 0 0 0 rg 44.0 554.2 Td (database that operates out of view. When a visitor places an order across the counter \(submits a form\), the backend) Tj ET
+BT /F1 8.8 Tf 0 0 0 rg 44.0 542.4 Td (checks if the request is valid, writes it to a persistent ledger, communicates with external delivery services \(such as) Tj ET
+BT /F1 8.8 Tf 0 0 0 rg 44.0 530.6 Td (mail servers\), and returns a verified confirmation. Without a backend, clicking a button on a webpage is merely tapping) Tj ET
+BT /F1 8.8 Tf 0 0 0 rg 44.0 518.8 Td (glass.) Tj ET
+BT /F2 10.5 Tf 0 0 0 rg 44.0 504.5 Td (3. Feature Specification: The Netlify Contact Form) Tj ET
+BT /F1 8.8 Tf 0 0 0 rg 44.0 491.0 Td (The dynamic contact form allows recruiters, technical leads, and collaborators to send direct inquiries to the author) Tj ET
+BT /F1 8.8 Tf 0 0 0 rg 44.0 479.2 Td (without having to leave the webpage or launch a desktop email client.) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 467.4 Td (Х  Input Validation: Enforces required fields, proper name lengths, and standard email formatting prior to network) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 455.9 Td (transmission.) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 444.7 Td (Х  Spam Honeypot Defense: Includes a hidden 'bot-field' invisible to human visitors. Automated web crawlers fill all) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 433.2 Td (discovered input fields, allowing Netlify to silently reject spam without captchas.) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 422.0 Td (Х  Progressive Enhancement: Submits asynchronously via JavaScript fetch\(\) for immediate inline status alerts, with) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 410.5 Td (automatic fallback to standard form POST if JavaScript is disabled.) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 399.3 Td (Х  Zero-Cost Architecture: Built entirely on Netlify's free tier \(100 verified submissions/month, zero external) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 387.8 Td (dependencies\).) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3121 >>
+stream
+BT /F2 10.5 Tf 0 0 0 rg 44.0 753.5 Td (4. Step-by-Step Data Flow Architecture) Tj ET
+BT /F1 8.8 Tf 0 0 0 rg 44.0 740.0 Td (The complete lifecycle of a message travels through six distinct, verified stages from the user's keystroke to the) Tj ET
+BT /F1 8.8 Tf 0 0 0 rg 44.0 728.2 Td (author's inbox:) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 716.4 Td (Х  Step 1 \(Browser Input\): The visitor enters their Name, Email, and Message into the HTML form at #contact. The) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 704.9 Td (browser enforces syntactic validation.) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 693.7 Td (Х  Step 2 \(Serialization & Honeypot\): On clicking 'Send message', client JavaScript intercepts the event, disables the) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 682.2 Td (submit button to prevent double-clicks, and serializes the form fields into a URL-encoded string containing the hidden) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 670.7 Td (Netlify form token \(form-name=contact\).) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 659.5 Td (Х  Step 3 \(Network Transport\): The browser dispatches an asynchronous HTTP POST request across TLS to Netlify's edge) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 648.0 Td (routing infrastructure at the site root \(/\).) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 636.8 Td (Х  Step 4 \(Serverless Processing & Storage\): Netlify's serverless edge handler recognizes the form header, verifies) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 625.3 Td (that the 'bot-field' honeypot is empty, validates the payload, and records the submission in the site database.) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 614.1 Td (Х  Step 5 \(Transactional Mail Dispatch\): Netlify triggers a server-side notification webhook that formats the submitted) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 602.6 Td (data into an alert email and delivers it to jezreelmomoh1234@gmail.com.) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 591.4 Td (Х  Step 6 \(Client Feedback\): Netlify responds with HTTP 200 OK. The browser script receives the response, resets the) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 579.9 Td (form inputs, and renders an accessible green confirmation message: 'Thank you! Your message was sent successfully.') Tj ET
+BT /F2 10.5 Tf 0 0 0 rg 44.0 566.2 Td (5. Pass / Revise Evaluation Compliance) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 552.7 Td (Х  Single Feature Focus: Exactly one feature wired end-to-end \(contact form\), rather than multiple partial) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 541.2 Td (implementations.) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 530.0 Td (Х  Free Tier Operation: Powered by native Netlify Forms with no paid services or credit card requirements.) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 518.8 Td (Х  Verifiable Live Evidence: Form is deployed on production URL \(https://jezreal-momoh-portfolio.netlify.app\),) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 507.3 Td (confirmed in Netlify dashboard with active submissions and webhook routing.) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 496.1 Td (Х  Conceptual Understanding: Explainer clearly distinguishes frontend presentation from backend data processing and) Tj ET
+BT /F1 8.6 Tf 0 0 0 rg 54.0 484.6 Td (maps the entire transport flow.) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Title (Make It Do Something - Dynamic Feature & Explainer) /Author (Jezreal Momoh) >>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000224 00000 n 
+0000000326 00000 n 
+0000000421 00000 n 
+0000004482 00000 n 
+0000004628 00000 n 
+0000007801 00000 n 
+0000007947 00000 n 
+trailer
+<< /Size 11 /Root 1 0 R /Info 10 0 R >>
+startxref
+8053
+%%EOF
