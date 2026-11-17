@@ -6,10 +6,11 @@ Live site: <https://jezreal-momoh-portfolio.netlify.app>
 
 ## Files
 
-- `site/index.html` — page content, project links, contact links, and CV link.
-- `site/styles.css` — colours, spacing, responsive layout, and focus states.
+- `site/index.html` — page content, project links, dynamic contact form, and CV link.
+- `site/styles.css` — colours, spacing, responsive layout, form styling, and focus states.
 - `site/assets/jm-favicon.svg` — the browser-tab icon.
 - `site/assets/Jezreal_Momoh_Backend_AI_Engineer_CV.pdf` — selected CV with a visible, clickable link to the live portfolio; review project and credential details before public release.
+- `MAKE_IT_DO_SOMETHING.md` — Week 6 dynamic feature explainer (what a backend is, feature description, and step-by-step data flow).
 - `evidence/empty-but-live-mobile-proof.png` — Week 4 evidence image; it is outside the deploy folder.
 
 ## Preview locally

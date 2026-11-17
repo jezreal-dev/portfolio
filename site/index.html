@@ -94,10 +94,42 @@
       <section class="contact section-block" id="contact" aria-labelledby="contact-title">
         <p class="eyebrow">Get in touch</p>
         <h2 id="contact-title">Have a useful problem to solve?</h2>
-        <p>Book a short introductory call, reach me by email, or connect on LinkedIn.</p>
-        <div class="contact-actions">
-          <a class="button button-primary" href="https://calendly.com/laerzej/15-minute-intro-call" target="_blank" rel="noopener noreferrer">Book a 15-minute intro call <span aria-hidden="true">↗</span></a>
-          <a class="button button-secondary" href="mailto:jezreelmomoh1234@gmail.com?subject=Hello%20Jezreal">Email Jezreal <span aria-hidden="true">↗</span></a>
+        <p>Send a direct message below, book a short introductory call, or connect on LinkedIn.</p>
+
+        <form class="contact-form" name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" id="contact-form">
+          <input type="hidden" name="form-name" value="contact">
+          <p class="visually-hidden">
+            <label>Don’t fill this out if you're human: <input name="bot-field" tabindex="-1"></label>
+          </p>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label for="name">Your Name</label>
+              <input type="text" id="name" name="name" required placeholder="e.g. Alex Smith" autocomplete="name">
+            </div>
+            <div class="form-group">
+              <label for="email">Email Address</label>
+              <input type="email" id="email" name="email" required placeholder="alex@example.com" autocomplete="email">
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="message">Message</label>
+            <textarea id="message" name="message" rows="4" required placeholder="What are you building, and how can I help?"></textarea>
+          </div>
+
+          <div class="form-actions">
+            <button type="submit" class="button button-primary" id="form-submit-btn">
+              <span>Send message</span>
+              <span aria-hidden="true">→</span>
+            </button>
+            <p class="form-status" id="form-status" aria-live="polite"></p>
+          </div>
+        </form>
+
+        <div class="contact-actions" style="margin-top: 32px;">
+          <a class="button button-secondary" href="https://calendly.com/laerzej/15-minute-intro-call" target="_blank" rel="noopener noreferrer">Book a 15-minute intro call <span aria-hidden="true">↗</span></a>
+          <a class="button button-secondary" href="mailto:jezreelmomoh1234@gmail.com?subject=Hello%20Jezreal">Direct Email <span aria-hidden="true">↗</span></a>
           <a class="button button-secondary" href="https://linkedin.com/in/jezreal-momoh" target="_blank" rel="noopener noreferrer">Connect on LinkedIn <span aria-hidden="true">↗</span></a>
         </div>
       </section>
@@ -111,5 +143,49 @@
         <a href="mailto:jezreelmomoh1234@gmail.com">Email</a>
       </div>
     </footer>
+
+    <script>
+      const contactForm = document.getElementById('contact-form');
+      const submitBtn = document.getElementById('form-submit-btn');
+      const formStatus = document.getElementById('form-status');
+
+      if (contactForm) {
+        contactForm.addEventListener('submit', async (e) => {
+          e.preventDefault();
+          const submitText = submitBtn.querySelector('span');
+          const originalText = submitText.textContent;
+          submitBtn.disabled = true;
+          submitText.textContent = 'Sending...';
+          formStatus.textContent = '';
+          formStatus.className = 'form-status';
+
+          const formData = new FormData(contactForm);
+
+          try {
+            const response = await fetch('/', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+              body: new URLSearchParams(formData).toString()
+            });
+
+            if (response.ok) {
+              formStatus.textContent = 'Thank you! Your message was sent successfully.';
+              formStatus.classList.add('success');
+              contactForm.reset();
+            } else {
+              throw new Error('Server returned ' + response.status);
+            }
+          } catch (err) {
+            formStatus.textContent = 'Message could not be sent directly. Submitting normally...';
+            formStatus.classList.add('error');
+            // Graceful fallback to default browser form submission
+            setTimeout(() => contactForm.submit(), 1000);
+          } finally {
+            submitBtn.disabled = false;
+            submitText.textContent = originalText;
+          }
+        });
+      }
+    </script>
   </body>
 </html>
