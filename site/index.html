@@ -176,10 +176,8 @@
               throw new Error('Server returned ' + response.status);
             }
           } catch (err) {
-            formStatus.textContent = 'Message could not be sent directly. Submitting normally...';
+            formStatus.textContent = 'Unable to send message via form right now. Please email directly at jezreelmomoh1234@gmail.com';
             formStatus.classList.add('error');
-            // Graceful fallback to default browser form submission
-            setTimeout(() => contactForm.submit(), 1000);
           } finally {
             submitBtn.disabled = false;
             submitText.textContent = originalText;
