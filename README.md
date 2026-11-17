@@ -20,4 +20,4 @@ Open `site/index.html` in a browser. No package install, build command, or serve
 
 The live site was uploaded manually through Netlify. To publish updates, upload the `site/` folder from the existing site's Deploys page. Do not use Netlify Drop for later updates; that would create another site. `index.html` is at the deploy folder root. The contact section links to the 15-minute Calendly event.
 
-This local Git repository has no remote configured, and Netlify is not connected to it for automatic deploys.
+The Git repository tracks `https://github.com/jezreal-dev/portfolio.git`, while production updates are deployed manually by uploading the `site/` folder on Netlify rather than continuous deployment hooks.
