@@ -16,83 +16,75 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
 endobj
 6 0 obj
-<< /Length 4530 >>
+<< /Length 4288 >>
 stream
-BT /F2 15.0 Tf 0 0 0 rg 50.0 748.0 Td (Make It Do Something: Dynamic Feature and Explainer) Tj ET
-BT /F1 8.5 Tf 0 0 0 rg 50.0 726.0 Td (Jezreal Momoh  |  General AI Fluency \(Week 6\)  |  Netlify Forms  |  November 2026) Tj ET
-q 0.80 w 0 0 0 RG 50.0 708.0 m 562.0 708.0 l S Q
-BT /F2 11.0 Tf 0 0 0 rg 50.0 688.0 Td (1. Project Summary and Deliverables) Tj ET
-q 0.30 w 0 0 0 RG 50.0 672.0 m 562.0 672.0 l S Q
-BT /F1 9.2 Tf 0 0 0 rg 50.0 664.0 Td (A static portfolio displays information, but a portfolio with a real feature performs work. For this assignment,) Tj ET
-BT /F1 9.2 Tf 0 0 0 rg 50.0 650.2 Td (I added one working dynamic feature to my portfolio: a contact form that accepts user messages, validates input,) Tj ET
-BT /F1 9.2 Tf 0 0 0 rg 50.0 636.4 Td (blocks automated spam, stores verified submissions, and forwards notifications to my email address.) Tj ET
-BT /F2 8.8 Tf 0 0 0 rg 58.0 616.6 Td (Live URL: https://jezreal-momoh-portfolio.netlify.app#contact) Tj ET
-BT /F2 8.8 Tf 0 0 0 rg 58.0 601.8 Td (Source Code: https://github.com/jezreal-dev/portfolio) Tj ET
-BT /F2 8.8 Tf 0 0 0 rg 58.0 587.0 Td (Hosting Platform: Netlify \(Free Tier, manual deploy\)) Tj ET
-BT /F2 8.8 Tf 0 0 0 rg 58.0 572.2 Td (Backend Mechanism: Netlify Edge Forms with honeypot spam protection) Tj ET
-BT /F2 8.8 Tf 0 0 0 rg 58.0 557.4 Td (Test Result: Verified submission logged in Netlify Forms dashboard and routed to email) Tj ET
-BT /F2 11.0 Tf 0 0 0 rg 50.0 534.6 Td (2. What a Backend Is \(In Plain Words\)) Tj ET
-q 0.30 w 0 0 0 RG 50.0 518.6 m 562.0 518.6 l S Q
-BT /F1 9.2 Tf 0 0 0 rg 50.0 510.6 Td (A useful way to understand a backend is the difference between a shop poster and a restaurant kitchen.) Tj ET
-BT /F1 9.2 Tf 0 0 0 rg 50.0 490.8 Td (A static website is like a printed poster in a shop window. A visitor can read the text, view the layout, and see) Tj ET
-BT /F1 9.2 Tf 0 0 0 rg 50.0 477.0 Td (an email address, but pressing on the poster changes nothing inside the building. In software, that visible) Tj ET
-BT /F1 9.2 Tf 0 0 0 rg 50.0 463.2 Td (surface is the frontend: HTML structure, CSS rules, and client-side styling that run entirely inside the user's) Tj ET
-BT /F1 9.2 Tf 0 0 0 rg 50.0 449.4 Td (browser.) Tj ET
-BT /F1 9.2 Tf 0 0 0 rg 50.0 429.6 Td (A backend is the kitchen and accounting desk behind the counter. When a customer hands over an order, the kitchen) Tj ET
-BT /F1 9.2 Tf 0 0 0 rg 50.0 415.8 Td (validates the items, checks inventory, writes the transaction into a ledger, and triggers real actions like) Tj ET
-BT /F1 9.2 Tf 0 0 0 rg 50.0 402.0 Td (preparing food or calling a courier. In web development, a backend accepts incoming network requests, verifies) Tj ET
-BT /F1 9.2 Tf 0 0 0 rg 50.0 388.2 Td (data against strict rules, keeps private keys safe, and produces real-world outcomes such as sending an email or) Tj ET
-BT /F1 9.2 Tf 0 0 0 rg 50.0 374.4 Td (updating a database. Without a backend, clicking a button on a screen is just tapping glass.) Tj ET
-BT /F2 11.0 Tf 0 0 0 rg 50.0 346.6 Td (3. The Feature: How It Works) Tj ET
-q 0.30 w 0 0 0 RG 50.0 330.6 m 562.0 330.6 l S Q
-BT /F1 9.2 Tf 0 0 0 rg 50.0 322.6 Td (Instead of relying on a mailto link that requires visitors to open a desktop email application, the portfolio now) Tj ET
-BT /F1 9.2 Tf 0 0 0 rg 50.0 308.8 Td (provides an inline contact form at the bottom of the page.) Tj ET
-BT /F1 9.0 Tf 0 0 0 rg 60.0 289.0 Td (- Input Validation: The browser ensures the name and message are present and the email address follows a valid) Tj ET
-BT /F1 9.0 Tf 0 0 0 rg 60.0 276.0 Td (format before sending.) Tj ET
-BT /F1 9.0 Tf 0 0 0 rg 60.0 260.0 Td (- Honeypot Spam Trap: A hidden field named 'bot-field' is invisible to human users. Automated spam bots fill out) Tj ET
-BT /F1 9.0 Tf 0 0 0 rg 60.0 247.0 Td (every field they find, allowing the backend to reject spam submissions without annoying human visitors with) Tj ET
-BT /F1 9.0 Tf 0 0 0 rg 60.0 234.0 Td (captchas.) Tj ET
-BT /F1 9.0 Tf 0 0 0 rg 60.0 218.0 Td (- Progressive Enhancement: When JavaScript is active, the form submits using fetch\(\), giving instant in-place) Tj ET
-BT /F1 9.0 Tf 0 0 0 rg 60.0 205.0 Td (confirmation without a full page reload. If JavaScript is disabled, it falls back to a standard HTTP POST form) Tj ET
-BT /F1 9.0 Tf 0 0 0 rg 60.0 192.0 Td (submission.) Tj ET
-q 0.2 w 0 0 0 RG 50.0 60.0 m 562.0 60.0 l S Q
-BT /F1 8.0 Tf 0 0 0 rg 50.0 44.0 Td (FlyRank Internship  -  Week 6  -  Jezreal Momoh) Tj ET
-BT /F1 8.0 Tf 0 0 0 rg 514.0 44.0 Td (Page 1 of 2) Tj ET
+BT /F2 15.5 Tf 0 0 0 rg 50.0 746.0 Td (Make It Do Something: Dynamic Feature and Explainer) Tj ET
+BT /F1 8.5 Tf 0 0 0 rg 50.0 723.0 Td (Jezreal Momoh  |  General AI Fluency \(Week 6\)  |  Netlify Forms  |  November 2026) Tj ET
+BT /F2 11.5 Tf 0 0 0 rg 50.0 681.0 Td (1. Project Summary and Deliverables) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 658.0 Td (A static portfolio displays information, but a portfolio with a real feature performs work. For this assignment,) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 644.0 Td (I added one working dynamic feature to my portfolio: a contact form that accepts user messages, validates input,) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 630.0 Td (blocks automated spam, stores verified submissions, and forwards notifications to my email address.) Tj ET
+BT /F2 8.8 Tf 0 0 0 rg 58.0 610.0 Td (Live URL: https://jezreal-momoh-portfolio.netlify.app#contact) Tj ET
+BT /F2 8.8 Tf 0 0 0 rg 58.0 595.2 Td (Source Code: https://github.com/jezreal-dev/portfolio) Tj ET
+BT /F2 8.8 Tf 0 0 0 rg 58.0 580.4 Td (Hosting Platform: Netlify \(Free Tier, manual deploy\)) Tj ET
+BT /F2 8.8 Tf 0 0 0 rg 58.0 565.6 Td (Backend Mechanism: Netlify Edge Forms with honeypot spam protection) Tj ET
+BT /F2 8.8 Tf 0 0 0 rg 58.0 550.8 Td (Test Result: Verified submission logged in Netlify Forms dashboard and routed to email) Tj ET
+BT /F2 11.5 Tf 0 0 0 rg 50.0 526.0 Td (2. What a Backend Is \(In Plain Words\)) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 503.0 Td (A useful way to understand a backend is the difference between a shop poster and a restaurant kitchen.) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 483.0 Td (A static website is like a printed poster in a shop window. A visitor can read the text, view the layout, and see) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 469.0 Td (an email address, but pressing on the poster changes nothing inside the building. In software, that visible) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 455.0 Td (surface is the frontend: HTML structure, CSS rules, and client-side styling that run entirely inside the user's) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 441.0 Td (browser.) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 421.0 Td (A backend is the kitchen and accounting desk behind the counter. When a customer hands over an order, the kitchen) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 407.0 Td (validates the items, checks inventory, writes the transaction into a ledger, and triggers real actions like) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 393.0 Td (preparing food or calling a courier. In web development, a backend accepts incoming network requests, verifies) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 379.0 Td (data against strict rules, keeps private keys safe, and produces real-world outcomes such as sending an email or) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 365.0 Td (updating a database. Without a backend, clicking a button on a screen is just tapping glass.) Tj ET
+BT /F2 11.5 Tf 0 0 0 rg 50.0 335.0 Td (3. The Feature: How It Works) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 312.0 Td (Instead of relying on a mailto link that requires visitors to open a desktop email application, the portfolio now) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 298.0 Td (provides an inline contact form at the bottom of the page.) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 278.0 Td (- Input Validation: The browser ensures the name and message are present and the email address follows a valid) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 265.0 Td (format before sending.) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 249.0 Td (- Honeypot Spam Trap: A hidden field named 'bot-field' is invisible to human users. Automated spam bots fill out) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 236.0 Td (every field they find, allowing the backend to reject spam submissions without annoying human visitors with) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 223.0 Td (captchas.) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 207.0 Td (- Progressive Enhancement: When JavaScript is active, the form submits using fetch\(\), giving instant in-place) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 194.0 Td (confirmation without a full page reload. If JavaScript is disabled, it falls back to a standard HTTP POST form) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 181.0 Td (submission.) Tj ET
+BT /F1 8.0 Tf 0 0 0 rg 50.0 46.0 Td (FlyRank Internship  -  Week 6  -  Jezreal Momoh) Tj ET
+BT /F1 8.0 Tf 0 0 0 rg 514.0 46.0 Td (Page 1 of 2) Tj ET
 endstream
 endobj
 7 0 obj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 6 0 R >>
 endobj
 8 0 obj
-<< /Length 2948 >>
+<< /Length 2804 >>
 stream
-BT /F2 11.0 Tf 0 0 0 rg 50.0 740.0 Td (4. How Data Flows \(Step-by-Step\)) Tj ET
-q 0.30 w 0 0 0 RG 50.0 724.0 m 562.0 724.0 l S Q
-BT /F1 9.2 Tf 0 0 0 rg 50.0 716.0 Td (From the moment a visitor types a message to the moment it reaches my inbox, the data passes through six clear) Tj ET
-BT /F1 9.2 Tf 0 0 0 rg 50.0 702.2 Td (steps:) Tj ET
-BT /F1 9.0 Tf 0 0 0 rg 60.0 682.4 Td (- Step 1 \(User Input\): The visitor fills out the name, email, and message inputs in the contact section of the) Tj ET
-BT /F1 9.0 Tf 0 0 0 rg 60.0 669.4 Td (website.) Tj ET
-BT /F1 9.0 Tf 0 0 0 rg 60.0 653.4 Td (- Step 2 \(Serialization\): When the user clicks 'Send message', JavaScript intercepts the submit event, disables) Tj ET
-BT /F1 9.0 Tf 0 0 0 rg 60.0 640.4 Td (the button to prevent duplicate clicks, and encodes the fields into URL-encoded format, including the hidden form) Tj ET
-BT /F1 9.0 Tf 0 0 0 rg 60.0 627.4 Td (identifier.) Tj ET
-BT /F1 9.0 Tf 0 0 0 rg 60.0 611.4 Td (- Step 3 \(Network Transport\): The browser sends an asynchronous HTTP POST request across the network to the site) Tj ET
-BT /F1 9.0 Tf 0 0 0 rg 60.0 598.4 Td (root on Netlify's servers.) Tj ET
-BT /F1 9.0 Tf 0 0 0 rg 60.0 582.4 Td (- Step 4 \(Server Processing\): Netlify's edge server identifies the form name, checks that the honeypot field is) Tj ET
-BT /F1 9.0 Tf 0 0 0 rg 60.0 569.4 Td (empty, validates the content, and stores the submission in the dashboard database.) Tj ET
-BT /F1 9.0 Tf 0 0 0 rg 60.0 553.4 Td (- Step 5 \(Email Notification\): Netlify triggers a webhook notification that formats the message and delivers an) Tj ET
-BT /F1 9.0 Tf 0 0 0 rg 60.0 540.4 Td (email directly to jezreelmomoh1234@gmail.com.) Tj ET
-BT /F1 9.0 Tf 0 0 0 rg 60.0 524.4 Td (- Step 6 \(User Feedback\): Netlify returns an HTTP 200 OK status to the browser. The script clears the form fields) Tj ET
-BT /F1 9.0 Tf 0 0 0 rg 60.0 511.4 Td (and displays a clear confirmation line: 'Thank you! Your message was sent successfully.') Tj ET
-BT /F2 11.0 Tf 0 0 0 rg 50.0 487.4 Td (5. Pass / Revise Check) Tj ET
-q 0.30 w 0 0 0 RG 50.0 471.4 m 562.0 471.4 l S Q
-BT /F1 9.0 Tf 0 0 0 rg 60.0 463.4 Td (- Single Feature: Exactly one feature built and verified end-to-end, rather than several half-working components.) Tj ET
-BT /F1 9.0 Tf 0 0 0 rg 60.0 447.4 Td (- Free Tier: Uses built-in Netlify Forms with no paid services or credit cards required.) Tj ET
-BT /F1 9.0 Tf 0 0 0 rg 60.0 431.4 Td (- Real Test Run: Verified with an end-to-end test submission recorded in the live Netlify dashboard.) Tj ET
-BT /F1 9.0 Tf 0 0 0 rg 60.0 415.4 Td (- Clear Explainer: The explainer uses simple, accurate words to describe the backend, the feature, and the data) Tj ET
-BT /F1 9.0 Tf 0 0 0 rg 60.0 402.4 Td (flow.) Tj ET
-q 0.2 w 0 0 0 RG 50.0 60.0 m 562.0 60.0 l S Q
-BT /F1 8.0 Tf 0 0 0 rg 50.0 44.0 Td (FlyRank Internship  -  Week 6  -  Jezreal Momoh) Tj ET
-BT /F1 8.0 Tf 0 0 0 rg 514.0 44.0 Td (Page 2 of 2) Tj ET
+BT /F2 11.5 Tf 0 0 0 rg 50.0 736.0 Td (4. How Data Flows \(Step-by-Step\)) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 713.0 Td (From the moment a visitor types a message to the moment it reaches my inbox, the data passes through six clear) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 699.0 Td (steps:) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 679.0 Td (- Step 1 \(User Input\): The visitor fills out the name, email, and message inputs in the contact section of the) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 666.0 Td (website.) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 650.0 Td (- Step 2 \(Serialization\): When the user clicks 'Send message', JavaScript intercepts the submit event, disables) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 637.0 Td (the button to prevent duplicate clicks, and encodes the fields into URL-encoded format, including the hidden form) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 624.0 Td (identifier.) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 608.0 Td (- Step 3 \(Network Transport\): The browser sends an asynchronous HTTP POST request across the network to the site) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 595.0 Td (root on Netlify's servers.) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 579.0 Td (- Step 4 \(Server Processing\): Netlify's edge server identifies the form name, checks that the honeypot field is) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 566.0 Td (empty, validates the content, and stores the submission in the dashboard database.) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 550.0 Td (- Step 5 \(Email Notification\): Netlify triggers a webhook notification that formats the message and delivers an) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 537.0 Td (email directly to jezreelmomoh1234@gmail.com.) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 521.0 Td (- Step 6 \(User Feedback\): Netlify returns an HTTP 200 OK status to the browser. The script clears the form fields) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 508.0 Td (and displays a clear confirmation line: 'Thank you! Your message was sent successfully.') Tj ET
+BT /F2 11.5 Tf 0 0 0 rg 50.0 482.0 Td (5. Pass / Revise Check) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 459.0 Td (- Single Feature: Exactly one feature built and verified end-to-end, rather than several half-working components.) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 443.0 Td (- Free Tier: Uses built-in Netlify Forms with no paid services or credit cards required.) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 427.0 Td (- Real Test Run: Verified with an end-to-end test submission recorded in the live Netlify dashboard.) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 411.0 Td (- Clear Explainer: The explainer uses simple, accurate words to describe the backend, the feature, and the data) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 398.0 Td (flow.) Tj ET
+BT /F1 8.0 Tf 0 0 0 rg 50.0 46.0 Td (FlyRank Internship  -  Week 6  -  Jezreal Momoh) Tj ET
+BT /F1 8.0 Tf 0 0 0 rg 514.0 46.0 Td (Page 2 of 2) Tj ET
 endstream
 endobj
 9 0 obj
@@ -110,12 +102,12 @@ xref
 0000000224 00000 n 
 0000000326 00000 n 
 0000000421 00000 n 
-0000005003 00000 n 
-0000005149 00000 n 
-0000008149 00000 n 
-0000008295 00000 n 
+0000004761 00000 n 
+0000004907 00000 n 
+0000007763 00000 n 
+0000007909 00000 n 
 trailer
 << /Size 11 /Root 1 0 R /Info 10 0 R >>
 startxref
-8399
+8013
 %%EOF
