@@ -1,0 +1,110 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R 9 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 3251 >>
+stream
+BT /F2 15.5 Tf 0 0 0 rg 50.0 746.0 Td (General AI Fluency Impact Project: Keeping the Portfolio Alive) Tj ET
+BT /F1 8.5 Tf 0 0 0 rg 50.0 723.0 Td (Jezreal Momoh  |  Code: FL \(Capstone\)  |  Week 6  |  November 18, 2026) Tj ET
+BT /F2 11.5 Tf 0 0 0 rg 50.0 681.0 Td (1. Where the Next Case Study Goes) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 658.0 Td (My live portfolio is a zero-build static site hosted on Netlify and tracked on GitHub. Every project card lives) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 644.0 Td (in one predictable location so adding new work takes minutes instead of a rebuild.) Tj ET
+BT /F2 8.8 Tf 0 0 0 rg 58.0 624.0 Td (Live Portfolio: https://jezreal-momoh-portfolio.netlify.app) Tj ET
+BT /F2 8.8 Tf 0 0 0 rg 58.0 609.2 Td (GitHub Repository: https://github.com/jezreal-dev/portfolio) Tj ET
+BT /F2 8.8 Tf 0 0 0 rg 58.0 594.4 Td (Project Card Slot: portfolio/site/index.html inside <div class="project-grid"> under <section id="work">) Tj ET
+BT /F2 8.8 Tf 0 0 0 rg 58.0 579.6 Td (Write-Up Link Slot: portfolio/site/index.html inside <ul class="notes-list"> under <section id="notes">) Tj ET
+BT /F2 8.8 Tf 0 0 0 rg 58.0 564.8 Td (Runbook File: portfolio/HOW_TO_ADD_A_CASE_STUDY.md) Tj ET
+BT /F2 11.5 Tf 0 0 0 rg 50.0 540.0 Td (2. Concrete Steps to Add the Next Case \(10-Minute Loop\)) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 517.0 Td (- Step 1 \(Open Preserved AI Context\): Open my saved Claude Project \('FlyRank Portfolio & Brand'\), which already) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 504.0 Td (contains my Voice Card, technical stack, and HTML/CSS layout rules.) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 488.0 Td (- Step 2 \(Draft in Week 2 Three-Beat Shape\): Write the new work using three direct beats: \(a\) The Problem that) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 475.0 Td (existed, \(b\) What I Did and Decided \(architecture and trade-offs\), and \(c\) What Came of It \(measurable proof\).) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 459.0 Td (- Step 3 \(Distill & Insert Card\): Tighten the draft into two plain sentences with zero buzzwords and paste a new) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 446.0 Td (<article class="project-card"> block into <div class="project-grid"> in portfolio/site/index.html \(incrementing) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 433.0 Td (project-number or rotating the 2x2 grid\).) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 417.0 Td (- Step 4 \(Link Deep-Dive Notes\): If the project includes an architecture README or audit log, add one <li><a) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 404.0 Td (class="note-item"> row inside <ul class="notes-list">.) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 388.0 Td (- Step 5 \(Mobile & Link Check\): Preview site/index.html locally at 375px width to verify zero horizontal overflow) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 375.0 Td (and confirm every GitHub/demo link returns HTTP 200.) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 359.0 Td (- Step 6 \(Commit, Push & Deploy\): Run git add, commit, and push to origin main, then drag portfolio/site/ into) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 346.0 Td (the existing Netlify site's Deploys page to publish live.) Tj ET
+BT /F1 8.0 Tf 0 0 0 rg 50.0 46.0 Td (FlyRank Internship  -  Week 6 Impact Project \(FL\)  -  Jezreal Momoh) Tj ET
+BT /F1 8.0 Tf 0 0 0 rg 514.0 46.0 Td (Page 1 of 2) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3662 >>
+stream
+BT /F2 11.5 Tf 0 0 0 rg 50.0 736.0 Td (3. Named Next Real Piece of Work) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 713.0 Td (Next Case Study \(#05\): FlyRank Source-Grounded Study Coach Agent \(FL-07\) - a self-hosted n8n AI agent running) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 699.0 Td (Fireworks GLM 5.3 Flash connected over a private Docker network to a local Python tool server \(Week) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 685.0 Td (5/agent/study_coach_server.py\). Queued directly after it: the Week 7 Durable Background Job & Async Report) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 671.0 Td (Pipeline.) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 651.0 Td (- The Problem: Generic LLM study chats hallucinate details from course lectures and misquote speaker names when) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 638.0 Td (quizzing you on personal notes.) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 622.0 Td (- What I Did & Decided: Built an n8n agent backed by a Dockerized Python tool service. Instead of stuffing raw) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 609.0 Td (transcripts into prompts, I exposed targeted note-reading and sentence-level search endpoints, and locked disk) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 596.0 Td (writes behind a human approval gate.) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 580.0 Td (- What Came of It: Verified end-to-end runs explain Week 5 concepts with exact sentence-ID citations, recover) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 567.0 Td (autonomously from zero-match searches, and never write files without confirmation.) Tj ET
+BT /F2 11.5 Tf 0 0 0 rg 50.0 541.0 Td (4. Concrete Reminder Evidence) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 518.0 Td (To turn portfolio maintenance into a real habit, I created a recurring RFC 5545 calendar event and committed it) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 504.0 Td (inside the repository so it can be imported on any device.) Tj ET
+BT /F2 8.8 Tf 0 0 0 rg 58.0 484.0 Td (Reminder Title: Add Case Study #05 to Portfolio: FlyRank Study Coach Agent \(FL-07\)) Tj ET
+BT /F2 8.8 Tf 0 0 0 rg 58.0 469.2 Td (First Trigger: Friday, November 27, 2026 at 10:00 AM \(Africa/Lagos, GMT+1\)) Tj ET
+BT /F2 8.8 Tf 0 0 0 rg 58.0 454.4 Td (Recurrence Rule: Monthly on the 27th for 6 months \(RRULE:FREQ=MONTHLY;BYMONTHDAY=27;COUNT=6\)) Tj ET
+BT /F2 8.8 Tf 0 0 0 rg 58.0 439.6 Td (Advance Alert: 30 minutes prior \(VALARM -PT30M\)) Tj ET
+BT /F2 8.8 Tf 0 0 0 rg 58.0 424.8 Td (Artifact Path: portfolio/reminders/add-next-case-study.ics) Tj ET
+BT /F2 11.5 Tf 0 0 0 rg 50.0 400.0 Td (5. Preserved Build Context \(Claude Project Kit\)) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 377.0 Td (My Claude Project remains intact and its standing instructions are mirrored in HOW_TO_ADD_A_CASE_STUDY.md so) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 363.0 Td (future case studies stay cheap and consistent:) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 343.0 Td (- Voice Card: Direct, warm, plain, zero buzzwords \(no 'synergizes', 'cutting-edge', or 'leveraging'\).) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 327.0 Td (- Proof Statement: I build backend systems and practical AI tools with Go and Python, backed by production APIs,) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 314.0 Td (multi-agent reviewers, resilient scrapers, and serverless integrations.) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 298.0 Td (- Stack & Design Tokens: Go, Python, FastAPI, PostgreSQL, LangGraph, MCP, n8n, Docker, Netlify; light palette) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 285.0 Td (\(#faf9f6 page, #18181b ink, #1d4ed8 accent\), semantic HTML, 44px touch targets, 16px inputs.) Tj ET
+BT /F1 8.0 Tf 0 0 0 rg 50.0 46.0 Td (FlyRank Internship  -  Week 6 Impact Project \(FL\)  -  Jezreal Momoh) Tj ET
+BT /F1 8.0 Tf 0 0 0 rg 514.0 46.0 Td (Page 2 of 2) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Title (General AI Fluency Impact Project - Portfolio Update Habit) /Author (Jezreal Momoh) >>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000224 00000 n 
+0000000326 00000 n 
+0000000421 00000 n 
+0000003724 00000 n 
+0000003870 00000 n 
+0000007584 00000 n 
+0000007730 00000 n 
+trailer
+<< /Size 11 /Root 1 0 R /Info 10 0 R >>
+startxref
+7844
+%%EOF
