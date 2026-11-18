@@ -130,15 +130,22 @@ h1 { max-width: 790px; margin-bottom: 22px; font-size: clamp(42px, 7vw, 76px); l
 .section-heading { max-width: 690px; margin-bottom: 30px; }
 .section-heading h2, .about h2, .notes h2, .contact h2 { margin-bottom: 11px; font-size: clamp(30px, 4.3vw, 46px); line-height: 1.14; font-weight: 720; }
 .section-heading > p:last-child, .contact > p:not(.eyebrow), .notes-panel p:not(.eyebrow) { color: var(--muted); }
-.project-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+.project-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }
 .project-card {
   display: flex;
-  min-height: 286px;
+  min-height: 268px;
   flex-direction: column;
-  padding: 23px;
+  padding: 24px;
   border: 1px solid var(--line);
   border-radius: 12px;
   background: var(--surface);
+}
+.project-card code {
+  padding: 2px 5px;
+  border-radius: 4px;
+  background: var(--accent-wash);
+  color: var(--ink);
+  font-size: 0.9em;
 }
 .project-topline { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 28px; }
 .project-number { color: var(--accent); font-size: 13px; font-weight: 800; }
@@ -163,14 +170,49 @@ h1 { max-width: 790px; margin-bottom: 22px; font-size: clamp(42px, 7vw, 76px); l
 .about-copy p { color: var(--muted); }
 .skill-list { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 23px; }
 .skill-list span { padding: 7px 10px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); color: var(--muted); font-size: 12px; font-weight: 650; }
-.notes-panel { display: flex; justify-content: space-between; gap: 24px; padding: 34px; border-radius: 14px; background: var(--ink); color: white; }
-.notes-panel > div { max-width: 650px; }
+.notes-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  padding: 36px;
+  border-radius: 14px;
+  background: var(--ink);
+  color: white;
+}
+.notes-header { max-width: 650px; }
 .notes-panel .eyebrow { color: #9bd3b3; }
-.notes-panel h2 { max-width: 570px; }
-.notes-panel p:not(.eyebrow) { color: #c7d2cb; }
-.notes-mark { align-self: flex-start; color: var(--warm); font-size: 27px; }
+.notes-panel h2 { max-width: 600px; }
+.notes-panel p:not(.eyebrow) { color: #c7d2cb; margin-bottom: 0; }
+.notes-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  border-top: 1px solid rgba(255, 255, 255, .14);
+}
+.notes-list li {
+  border-bottom: 1px solid rgba(255, 255, 255, .14);
+}
+.note-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  min-height: 56px;
+  padding: 14px 4px;
+  text-decoration: none;
+  color: white;
+  transition: color .15s ease, transform .15s ease;
+}
+.note-item:hover { color: #9bd3b3; transform: translateX(3px); }
+.note-title { font-size: 15px; font-weight: 650; }
+.note-meta { font-size: 13px; color: #c7d2cb; text-align: right; }
+.note-item:hover .note-meta { color: #9bd3b3; }
 .contact { padding-bottom: 88px; }
 .contact > p:not(.eyebrow) { margin-bottom: 22px; }
+.contact-alt { margin-top: 34px; padding-top: 24px; border-top: 1px solid var(--line); }
+.contact-alt-label { margin-bottom: 14px; color: var(--muted); font-size: 14px; font-weight: 600; }
 .booking-note { margin-top: 14px; font-size: 12px; }
 
 /* Contact Form & Form Elements */
@@ -269,6 +311,8 @@ h1 { max-width: 790px; margin-bottom: 22px; font-size: clamp(42px, 7vw, 76px); l
   .project-grid { grid-template-columns: 1fr; }
   .project-card { min-height: 0; }
   .about { grid-template-columns: 1fr; gap: 22px; }
+  .note-item { flex-direction: column; align-items: flex-start; gap: 4px; padding: 14px 0; }
+  .note-meta { text-align: left; }
   .form-row { grid-template-columns: 1fr; }
 }
 @media (max-width: 470px) {
@@ -284,8 +328,7 @@ h1 { max-width: 790px; margin-bottom: 22px; font-size: clamp(42px, 7vw, 76px); l
   .hero-actions { flex-direction: column; width: 100%; }
   .button { width: 100%; min-height: 48px; }
   .project-card { padding: 20px; }
-  .notes-panel { padding: 22px; flex-direction: column; gap: 14px; }
-  .notes-mark { display: none; }
+  .notes-panel { padding: 24px 20px; gap: 18px; }
   .form-actions button { width: 100%; min-height: 48px; }
   .site-footer { align-items: flex-start; flex-direction: column; justify-content: center; gap: 12px; padding: 22px 0; }
   .footer-links { flex-wrap: wrap; gap: 16px; }
