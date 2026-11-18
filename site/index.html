@@ -3,11 +3,50 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Jezreal Momoh builds backend systems and applied AI tools with Go and Python.">
-    <meta name="theme-color" content="#f7f8f5">
+    <meta name="description" content="Jezreal Momoh is a Backend AI Engineer building Go and Python services, FastAPI endpoints, Pydantic schemas, multi-agent systems, and reliable LLM integrations.">
+    <meta name="author" content="Jezreal Momoh">
+    <meta name="robots" content="index, follow">
+    <meta name="theme-color" content="#faf9f6">
     <title>Jezreal Momoh — Backend AI Engineer</title>
+    <link rel="canonical" href="https://jezreal-momoh-portfolio.netlify.app/">
+
+    <!-- Open Graph / Social Share Preview -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://jezreal-momoh-portfolio.netlify.app/">
+    <meta property="og:title" content="Jezreal Momoh — Backend AI Engineer">
+    <meta property="og:description" content="Backend systems and practical AI tools in Go and Python: FastAPI services, Pydantic schemas, multi-agent code review, and evals.">
+    <meta property="og:image" content="https://jezreal-momoh-portfolio.netlify.app/assets/og-card.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Jezreal Momoh — Backend AI Engineer portfolio preview">
+
+    <!-- Twitter / X Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Jezreal Momoh — Backend AI Engineer">
+    <meta name="twitter:description" content="Backend systems and practical AI tools in Go and Python: FastAPI services, Pydantic schemas, multi-agent code review, and evals.">
+    <meta name="twitter:image" content="https://jezreal-momoh-portfolio.netlify.app/assets/og-card.png">
+
     <link rel="icon" type="image/svg+xml" href="./assets/jm-favicon.svg">
     <link rel="stylesheet" href="./styles.css">
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Jezreal Momoh",
+        "jobTitle": "Backend AI Engineer",
+        "url": "https://jezreal-momoh-portfolio.netlify.app/",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Ilorin",
+          "addressCountry": "NG"
+        },
+        "sameAs": [
+          "https://github.com/jezreal-dev",
+          "https://linkedin.com/in/jezreal-momoh"
+        ]
+      }
+    </script>
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
@@ -130,17 +169,20 @@
           <div class="form-row">
             <div class="form-group">
               <label for="name">Your Name</label>
-              <input type="text" id="name" name="name" required placeholder="e.g. Alex Smith" autocomplete="name">
+              <input type="text" id="name" name="name" required minlength="2" maxlength="100" placeholder="e.g. Alex Smith" autocomplete="name">
             </div>
             <div class="form-group">
               <label for="email">Email Address</label>
-              <input type="email" id="email" name="email" required placeholder="alex@example.com" autocomplete="email">
+              <input type="email" id="email" name="email" required maxlength="254" placeholder="alex@example.com" autocomplete="email">
             </div>
           </div>
 
           <div class="form-group">
-            <label for="message">Message</label>
-            <textarea id="message" name="message" rows="4" required placeholder="What are you building, and how can I help?"></textarea>
+            <div class="label-row">
+              <label for="message">Message</label>
+              <span class="char-count" id="message-count" aria-live="off">0 / 2000</span>
+            </div>
+            <textarea id="message" name="message" rows="4" required minlength="5" maxlength="2000" placeholder="What are you building, and how can I help?"></textarea>
           </div>
 
           <div class="form-actions">
@@ -175,37 +217,97 @@
       const contactForm = document.getElementById('contact-form');
       const submitBtn = document.getElementById('form-submit-btn');
       const formStatus = document.getElementById('form-status');
+      const messageField = document.getElementById('message');
+      const messageCount = document.getElementById('message-count');
+
+      if (messageField && messageCount) {
+        messageField.addEventListener('input', () => {
+          messageCount.textContent = messageField.value.length + ' / 2000';
+        });
+      }
 
       if (contactForm) {
+        let isSubmitting = false;
+        let lastSuccessAt = 0;
+        const COOLDOWN_MS = 5000;
+        const TIMEOUT_MS = 12000;
+        const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+        const showStatus = (msg, kind) => {
+          formStatus.textContent = msg;
+          formStatus.className = 'form-status ' + kind;
+        };
+
         contactForm.addEventListener('submit', async (e) => {
           e.preventDefault();
+          if (isSubmitting) return;
+
+          if (Date.now() - lastSuccessAt < COOLDOWN_MS) {
+            showStatus('Message already sent—please wait a few seconds before sending another.', 'error');
+            return;
+          }
+
+          const nameVal = contactForm.elements.name.value.trim();
+          const emailVal = contactForm.elements.email.value.trim();
+          const messageVal = contactForm.elements.message.value.trim();
+
+          if (nameVal.length < 2 || nameVal.length > 100) {
+            showStatus('Please enter your name (2–100 characters, not blank spaces).', 'error');
+            contactForm.elements.name.focus();
+            return;
+          }
+          if (!EMAIL_RE.test(emailVal) || emailVal.length > 254) {
+            showStatus('Please enter a valid email address.', 'error');
+            contactForm.elements.email.focus();
+            return;
+          }
+          if (messageVal.length < 5 || messageVal.length > 2000) {
+            showStatus('Please write a message between 5 and 2000 characters.', 'error');
+            contactForm.elements.message.focus();
+            return;
+          }
+
+          isSubmitting = true;
           const submitText = submitBtn.querySelector('span');
           const originalText = submitText.textContent;
           submitBtn.disabled = true;
           submitText.textContent = 'Sending...';
-          formStatus.textContent = '';
-          formStatus.className = 'form-status';
+          showStatus('', '');
 
-          const formData = new FormData(contactForm);
+          const payload = new URLSearchParams();
+          payload.set('form-name', 'contact');
+          payload.set('bot-field', contactForm.elements['bot-field'].value);
+          payload.set('name', nameVal);
+          payload.set('email', emailVal);
+          payload.set('message', messageVal);
+
+          const controller = new AbortController();
+          const timer = setTimeout(() => controller.abort(), TIMEOUT_MS);
 
           try {
             const response = await fetch('/', {
               method: 'POST',
               headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-              body: new URLSearchParams(formData).toString()
+              body: payload.toString(),
+              signal: controller.signal
             });
 
             if (response.ok) {
-              formStatus.textContent = 'Thank you! Your message was sent successfully.';
-              formStatus.classList.add('success');
+              lastSuccessAt = Date.now();
+              showStatus('Thank you! Your message was sent successfully.', 'success');
               contactForm.reset();
+              if (messageCount) messageCount.textContent = '0 / 2000';
             } else {
               throw new Error('Server returned ' + response.status);
             }
           } catch (err) {
-            formStatus.textContent = 'Unable to send message via form right now. Please email directly at jezreelmomoh1234@gmail.com';
-            formStatus.classList.add('error');
+            const reason = err.name === 'AbortError'
+              ? 'Request timed out on a slow connection.'
+              : 'Unable to send message via form right now.';
+            showStatus(reason + ' Please email directly at jezreelmomoh1234@gmail.com', 'error');
           } finally {
+            clearTimeout(timer);
+            isSubmitting = false;
             submitBtn.disabled = false;
             submitText.textContent = originalText;
           }

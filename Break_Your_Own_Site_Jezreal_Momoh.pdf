@@ -1,0 +1,102 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R 9 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 3419 >>
+stream
+BT /F2 15.5 Tf 0 0 0 rg 50.0 746.0 Td (Break Your Own Site: Hardening Audit, Triage and SEO) Tj ET
+BT /F1 8.5 Tf 0 0 0 rg 50.0 723.0 Td (Jezreal Momoh  |  General AI Fluency \(Week 7\)  |  Submit Gate  |  November 18, 2026) Tj ET
+BT /F2 11.5 Tf 0 0 0 rg 50.0 681.0 Td (1. Adversarial Break Tests Run) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 658.0 Td (Instead of testing only the happy path, I intentionally stress-tested https://jezreal-momoh-portfolio.netlify.app) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 644.0 Td (with blank/whitespace inputs, malformed emails, oversized messages, rapid double-submits, simulated slow) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 630.0 Td (connections, an exhaustive HTTP link check, a live search query, and payload/timing checks.) Tj ET
+BT /F2 8.8 Tf 0 0 0 rg 58.0 610.0 Td (Live Portfolio: https://jezreal-momoh-portfolio.netlify.app) Tj ET
+BT /F2 8.8 Tf 0 0 0 rg 58.0 595.2 Td (Full Audit Log: https://github.com/jezreal-dev/portfolio/blob/main/BREAK_YOUR_OWN_SITE.md) Tj ET
+BT /F2 8.8 Tf 0 0 0 rg 58.0 580.4 Td (Critical Payload: HTML 10.3 KB + CSS 9.4 KB \(~20 KB total render weight, zero JS frameworks\)) Tj ET
+BT /F2 8.8 Tf 0 0 0 rg 58.0 565.6 Td (Findability Check: GitHub \(jezreal-dev\) ranked first; Netlify subdomain was not yet indexed) Tj ET
+BT /F2 11.5 Tf 0 0 0 rg 50.0 540.8 Td (2. Fix-Now Findings \(All Addressed in Code\)) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 517.8 Td (- Whitespace-Only & Unbounded Form Inputs: Submitting spaces \('   '\) passed native HTML required validation, and) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 504.8 Td (#message had no length cap. Fixed by adding minlength/maxlength bounds \(name 2-100, email <=254, message 5-2000\),) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 491.8 Td (a live 0/2000 counter, strict JS .trim\(\) checks, and email regex validation before fetch\(\).) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 475.8 Td (- Rapid Double-Submit Race: Fast double-clicks or Enter presses could fire duplicate submissions. Fixed by adding) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 462.8 Td (an isSubmitting lock, a 5-second post-success cooldown, and clear disabled button styling.) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 446.8 Td (- Stalled Network Infinite Hang: fetch\('/'\) had no timeout, freezing the button on 'Sending...' on flaky 3G) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 433.8 Td (drops. Fixed with a 12-second AbortController timeout that cleanly falls back to the direct email message.) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 417.8 Td (- Live Link Audit 404 Caught: Automated curl checks across all 9 portfolio links returned HTTP 404 on) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 404.8 Td (MOBILE_FIX_LOG.md because local commits had drifted ahead of origin/main. Resolved by syncing git push and) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 391.8 Td (redeploying site/.) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 375.8 Td (- Missing SEO, Social Preview & Crawl Files: Added canonical URL, Open Graph and Twitter Card metadata, JSON-LD) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 362.8 Td (Person schema linking GitHub and LinkedIn, robots.txt, sitemap.xml, and a verified 1200x630 PNG preview card) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 349.8 Td (\(site/assets/og-card.png, 47 KB, visually checked after catching and fixing a chip text overlap\).) Tj ET
+BT /F1 8.0 Tf 0 0 0 rg 50.0 46.0 Td (FlyRank Internship  -  Week 7 \(Break Your Own Site\)  -  Jezreal Momoh) Tj ET
+BT /F1 8.0 Tf 0 0 0 rg 514.0 46.0 Td (Page 1 of 2) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 2848 >>
+stream
+BT /F2 11.5 Tf 0 0 0 rg 50.0 736.0 Td (3. Known Limitations \(Named Honestly, Not Hidden\)) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 713.0 Td (- Direct curl Bypass of Client Validation: Because Netlify Forms has no custom server middleware, a bot posting) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 700.0 Td (directly to / via curl bypasses browser JS checks. Mitigated by the hidden bot-field honeypot and Netlify server-) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 687.0 Td (side spam filtering.) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 671.0 Td (- Netlify Free-Tier Cap \(100 Submissions/Month\): A coordinated spam burst could exhaust the monthly quota.) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 658.0 Td (Mitigated by honeypot filtering, client cooldown, and a visible direct email fallback.) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 642.0 Td (- Manual Netlify Deploy Drift: Deploys are currently manual folder uploads rather than automated GitHub CI/CD) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 629.0 Td (hooks, which caused the brief doc-link drift caught during this audit.) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 613.0 Td (- Search Indexing Lag: Even with robots.txt, sitemap.xml, and JSON-LD schema added, Google indexing of a) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 600.0 Td (.netlify.app subdomain takes days to weeks until crawled and backlinked.) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 584.0 Td (- JavaScript-Disabled Flow: With JS turned off, submissions still succeed via native HTML POST, but redirect to) Tj ET
+BT /F1 9.0 Tf 0 0 0 rg 60.0 571.0 Td (Netlify's default confirmation page instead of displaying an inline status message.) Tj ET
+BT /F2 11.5 Tf 0 0 0 rg 50.0 545.0 Td (4. Speed Check & Hardening Review Confirmation) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 522.0 Td (Live curl measurements confirm a ~20 KB critical render payload \(10.3 KB HTML + 9.4 KB CSS, zero external webfont) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 508.0 Td (or framework overhead\) served over TLS 1.3 via Netlify Edge CDN \(DNS 0.22s, TLS 0.51s, cold-edge TTFB 1.66s,) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 494.0 Td (sub-200ms on edge cache hits\).) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 474.0 Td (Structured hardening review verified all four pre-launch checks: \(1\) whitespace and oversized inputs are blocked) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 460.0 Td (client-side before network calls, \(2\) double-submit and slow-network timeouts degrade cleanly without losing user) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 446.0 Td (text, \(3\) SEO/OG/sitemap/robots and the 1200x630 social card are verified with zero layout overlap, and \(4\) all) Tj ET
+BT /F1 9.2 Tf 0 0 0 rg 50.0 432.0 Td (five known limitations are transparently documented rather than hidden.) Tj ET
+BT /F1 8.0 Tf 0 0 0 rg 50.0 46.0 Td (FlyRank Internship  -  Week 7 \(Break Your Own Site\)  -  Jezreal Momoh) Tj ET
+BT /F1 8.0 Tf 0 0 0 rg 514.0 46.0 Td (Page 2 of 2) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Title (Break Your Own Site - Hardening Audit & Triage) /Author (Jezreal Momoh) >>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000224 00000 n 
+0000000326 00000 n 
+0000000421 00000 n 
+0000003892 00000 n 
+0000004038 00000 n 
+0000006938 00000 n 
+0000007084 00000 n 
+trailer
+<< /Size 11 /Root 1 0 R /Info 10 0 R >>
+startxref
+7186
+%%EOF
