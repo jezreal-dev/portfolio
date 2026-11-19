@@ -1,0 +1,300 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612.0 792.0] /Contents 4 0 R /Resources << /Font << /F1 99 0 R /F2 98 0 R /F3 97 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 7224 >>
+stream
+BT /F2 13.0 Tf 0.05 0.05 0.05 rg 46.0 752.0 Td (FlyRank Fluency Track  -  Capstone Submission: Send the Link \(Launch, Demo &) Tj ET
+BT /F2 13.0 Tf 0.05 0.05 0.05 rg 46.0 735.5 Td (Story\)) Tj ET
+BT /F1 7.8 Tf 0.35 0.35 0.35 rg 46.0 715.0 Td (Candidate: Jezreal Momoh  |  Milestone: Capstone \(Week 8 / 10\)  |  Portal ID: CUSTOM-MQX0QS1O-B788D1AA  |  Live URL: jezreal-momoh-) Tj ET
+BT /F1 7.8 Tf 0.35 0.35 0.35 rg 46.0 704.5 Td (portfolio.netlify.app) Tj ET
+BT /F2 9.5 Tf 0.05 0.05 0.05 rg 46.0 682.5 Td (1. Executive Mission & Capstone Architecture) Tj ET
+BT /F1 8.0 Tf 0.10 0.10 0.10 rg 46.0 666.5 Td (The fundamental premise established in Week 1 of the FlyRank AI Internship is that engineering competence cannot be passively) Tj ET
+BT /F1 8.0 Tf 0.10 0.10 0.10 rg 46.0 655.5 Td (studied; it must be built and proven in production code. A portfolio that presents a static snapshot of classwork inevitably goes) Tj ET
+BT /F1 8.0 Tf 0.10 0.10 0.10 rg 46.0 644.5 Td (stale within months. The difference between a transient student artifact and an enduring career asset is one simple, disciplined) Tj ET
+BT /F1 8.0 Tf 0.10 0.10 0.10 rg 46.0 633.5 Td (mechanism: The Compounding Portfolio Habit.) Tj ET
+BT /F1 8.0 Tf 0.10 0.10 0.10 rg 46.0 619.5 Td (This capstone packages the complete four-part system developed across the internship: \(1\) The Launched Portfolio live on Netlify) Tj ET
+BT /F1 8.0 Tf 0.10 0.10 0.10 rg 46.0 608.5 Td (Edge CDN over HTTPS proving a single clear claim; \(2\) An honest build-in-public launch story contrasting an AI engineering win) Tj ET
+BT /F1 8.0 Tf 0.10 0.10 0.10 rg 46.0 597.5 Td (against an adversarial failure and fix; \(3\) A 3-to-5 minute screen demo script walking the site and live contact system; and \(4\)) Tj ET
+BT /F1 8.0 Tf 0.10 0.10 0.10 rg 46.0 586.5 Td (The Compounding Runbook naming Case Study #05 \(LLM Usage Metering & Billing Engine\) with an active recurring calendar reminder.) Tj ET
+BT /F2 9.5 Tf 0.05 0.05 0.05 rg 46.0 569.5 Td (2. Headline System Metrics & Evaluator Benchmarks) Tj ET
+q 0.92 0.92 0.92 rg 46.0 538.5 520.0 15.0 re f Q
+BT /F2 7.6 Tf 0.15 0.15 0.15 rg 50.0 542.5 Td (Evaluator Benchmark) Tj ET
+BT /F2 7.6 Tf 0.15 0.15 0.15 rg 155.0 542.5 Td (Target Requirement) Tj ET
+BT /F2 7.6 Tf 0.15 0.15 0.15 rg 255.0 542.5 Td (Measured Verification) Tj ET
+BT /F2 7.6 Tf 0.15 0.15 0.15 rg 460.0 542.5 Td (Production Status) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 50.0 529.5 Td (Live Edge Deployment) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 155.0 529.5 Td (Custom domain over HTTPS) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 255.0 529.5 Td (https://jezreal-momoh-portfolio.netlify.app) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 460.0 529.5 Td (VERIFIED \(HTTP 200\)) Tj ET
+q 0.97 0.97 0.97 rg 46.0 516.0 520.0 11.0 re f Q
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 50.0 518.5 Td (Proof-of-Work Claim) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 155.0 518.5 Td (Single believable statement) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 255.0 518.5 Td (I build backend systems and practical AI tools in Go & Python) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 460.0 518.5 Td (VERIFIED CLEAR) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 50.0 507.5 Td (Five-Minute Stranger Test) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 155.0 507.5 Td (Navigable in < 5 mins) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 255.0 507.5 Td (4 core projects linked to GitHub repos, 3 notes, 1 contact form) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 460.0 507.5 Td (PASSED \(0 CONFUSION\)) Tj ET
+q 0.97 0.97 0.97 rg 46.0 494.0 520.0 11.0 re f Q
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 50.0 496.5 Td (Dynamic Edge Feature) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 155.0 496.5 Td (Working interactive tool) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 255.0 496.5 Td (Netlify Forms with honeypot, cooldown, & 12s AbortController) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 460.0 496.5 Td (VERIFIED WORKING) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 50.0 485.5 Td (FlyRank Credential) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 155.0 485.5 Td (Verified badge in footer) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 255.0 485.5 Td (Official SVG badge linking to verify/FR-D11-556C8-0CB4D) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 460.0 485.5 Td (VERIFIED ACTIVE) Tj ET
+q 0.97 0.97 0.97 rg 46.0 472.0 520.0 11.0 re f Q
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 50.0 474.5 Td (Build-in-Public Story) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 155.0 474.5 Td (Honest 250-word post) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 255.0 474.5 Td (1 real win \(boilerplate offload\), 1 real crack \(timeout/double-submit\)) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 460.0 474.5 Td (HONEST & VERIFIED) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 50.0 463.5 Td (Compounding Habit) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 155.0 463.5 Td (Named work + reminder) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 255.0 463.5 Td (Case Study #05 named; .ics calendar nudge active for 27th) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 460.0 463.5 Td (SCHEDULED \(6 MOS\)) Tj ET
+q 0.97 0.97 0.97 rg 46.0 450.0 520.0 11.0 re f Q
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 50.0 452.5 Td (Preserved AI Context) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 155.0 452.5 Td (Cheap future iterations) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 255.0 452.5 Td (Claude Project holds voice card, tech stack, & CSS design tokens) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 460.0 452.5 Td (PRESERVED IN GIT) Tj ET
+BT /F2 9.5 Tf 0.05 0.05 0.05 rg 46.0 434.5 Td (3. Portfolio Architecture & Verified Credential Integration) Tj ET
+q 0.96 0.96 0.96 rg 46.0 332.7 520.0 85.8 re f Q
+BT /F2 8.5 Tf 0.10 0.10 0.10 rg 54.0 407.5 Td (Platform Architecture & Technical Specifications \(portfolio/site/index.html\)) Tj ET
+BT /F2 7.6 Tf 0.20 0.20 0.20 rg 56.0 394.5 Td (1. Zero-Build Stack) Tj ET
+BT /F1 7.6 Tf 0.30 0.30 0.30 rg 201.0 394.5 Td (100% semantic HTML5, pure CSS3 \(styles.css\), and vanilla ES2022 JavaScript. Sub-500ms paint time.) Tj ET
+BT /F2 7.6 Tf 0.20 0.20 0.20 rg 56.0 383.7 Td (2. Edge CDN & TLS) Tj ET
+BT /F1 7.6 Tf 0.30 0.30 0.30 rg 201.0 383.7 Td (Hosted on Netlify Edge with automated Let's Encrypt TLS certificates and strict HSTS headers.) Tj ET
+BT /F2 7.6 Tf 0.20 0.20 0.20 rg 56.0 372.9 Td (3. Privacy Analytics) Tj ET
+BT /F1 7.6 Tf 0.30 0.30 0.30 rg 201.0 372.9 Td (Cloudflare Web Analytics and GoatCounter integrated with zero cookies, zero banners, and zero GDPR tracking.) Tj ET
+BT /F2 7.6 Tf 0.20 0.20 0.20 rg 56.0 362.1 Td (4. Social Card Hygiene) Tj ET
+BT /F1 7.6 Tf 0.30 0.30 0.30 rg 201.0 362.1 Td (Dedicated 1200x630px Open Graph card \(og-card.png\) and Twitter tags tested via OpenGraph.xyz.) Tj ET
+BT /F2 7.6 Tf 0.20 0.20 0.20 rg 56.0 351.3 Td (5. Accessibility Standards) Tj ET
+BT /F1 7.6 Tf 0.30 0.30 0.30 rg 201.0 351.3 Td (WCAG 2.1 AA compliant: keyboard skip-link \(#main\), 44px+ mobile touch targets, and >7:1 text contrast.) Tj ET
+BT /F2 7.6 Tf 0.20 0.20 0.20 rg 56.0 340.5 Td (6. Official Graduate Badge) Tj ET
+BT /F1 7.6 Tf 0.30 0.30 0.30 rg 201.0 340.5 Td (SVG badge linking to https://internship.flyrank.ai/verify/FR-D11-556C8-0CB4D?first_name=Jezreal.) Tj ET
+BT /F1 8.0 Tf 0.35 0.35 0.35 rg 46.0 40.0 Td (FlyRank General AI Fluency  -  Capstone Submission: Send the Link  -  Jezreal Momoh) Tj ET
+BT /F1 8.0 Tf 0.35 0.35 0.35 rg 511.0 40.0 Td (Page 1 of 4) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612.0 792.0] /Contents 6 0 R /Resources << /Font << /F1 99 0 R /F2 98 0 R /F3 97 0 R >> >> >>
+endobj
+6 0 obj
+<< /Length 6663 >>
+stream
+BT /F2 9.5 Tf 0.05 0.05 0.05 rg 46.0 749.0 Td (4. The Honest Build-in-Public Launch Story) Tj ET
+BT /F1 8.0 Tf 0.10 0.10 0.10 rg 46.0 733.0 Td (A compelling professional engineering story is not an empty corporate brag or marketing press release. Authenticity arises from) Tj ET
+BT /F1 8.0 Tf 0.10 0.10 0.10 rg 46.0 722.0 Td (transparency: stating what was made, highlighting where AI genuinely accelerated the build, and detailing the real cracks that) Tj ET
+BT /F1 8.0 Tf 0.10 0.10 0.10 rg 46.0 711.0 Td (occurred during edge-case stress testing along with the lessons learned.) Tj ET
+q 0.12 0.13 0.15 rg 46.0 396.8 520.0 300.2 re f Q
+BT /F2 7.0 Tf 0.70 0.72 0.76 rg 54.0 686.5 Td (Public Launch Story \(Target: LinkedIn, X, and FlyRank Showcase\)) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 678.0 Td (Title: How I Built My Backend AI Engineering Portfolio with AI \(The Wins, The Cracks, and What Stuck\)) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 668.2 Td (Author: Jezreal Momoh  |  Voice: Direct, warm, plain, zero buzzwords  |  Word Count: 265 words) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 658.4 Td () Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 648.6 Td (I used to think a portfolio was something you put off until you had a dozen 'perfect' projects. Ten weeks ago,) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 638.8 Td (I started the FlyRank Backend AI Engineering internship with one rule: don't study your way in - build your way in.) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 629.0 Td () Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 619.2 Td (Today, my personal portfolio is live at https://jezreal-momoh-portfolio.netlify.app.) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 609.4 Td () Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 599.6 Td (Here is the honest story of building it alongside an AI agent:) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 589.8 Td () Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 580.0 Td (The Win:) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 570.2 Td (AI did the heavy lifting where speed mattered most: generating responsive CSS scaffolding, scaffolding Pydantic) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 560.4 Td (schemas, and automating repetitive unit tests. That saved me dozens of hours of typing boilerplate, allowing me) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 550.6 Td (to focus my energy on architecture, system trade-offs, and adversarial error boundaries.) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 540.8 Td () Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 531.0 Td (The Failure \(and What I Learned\):) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 521.2 Td (During our 'Break Your Own Site' testing, the site cracked. The contact form hung indefinitely when tested on) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 511.4 Td (simulated slow 3G networks because it lacked a network timeout. Rapid double-clicks triggered multiple webhook) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 501.6 Td (submissions, and blank whitespace inputs passed through silently.) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 491.8 Td () Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 482.0 Td (Rather than hiding the cracks, I hardened them: I added an AbortController with a 12-second timeout, locked the) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 472.2 Td (submit button during in-flight requests, implemented a 5-second cooldown, and added strict whitespace sanitization.) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 462.4 Td () Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 452.6 Td (What Comes Next:) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 442.8 Td (A portfolio that only showcases graduation work goes stale. I've set up a 10-minute protocol and a monthly) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 433.0 Td (calendar reminder to add my next production piece: an enterprise LLM Usage Metering & Billing Engine with integer) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 423.2 Td (microcents math and cryptographic Stripe webhooks.) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 413.4 Td () Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 403.6 Td (Backend first. AI where it helps. Verified by code.) Tj ET
+BT /F2 9.5 Tf 0.05 0.05 0.05 rg 46.0 388.8 Td (5. Adversarial Triage: Break-Testing Remediation Summary) Tj ET
+q 0.92 0.92 0.92 rg 46.0 357.8 520.0 15.0 re f Q
+BT /F2 7.6 Tf 0.15 0.15 0.15 rg 50.0 361.8 Td (Vulnerability Tested) Tj ET
+BT /F2 7.6 Tf 0.15 0.15 0.15 rg 155.0 361.8 Td (Adversarial Attack Vector) Tj ET
+BT /F2 7.6 Tf 0.15 0.15 0.15 rg 275.0 361.8 Td (Remediation Implemented in Code) Tj ET
+BT /F2 7.6 Tf 0.15 0.15 0.15 rg 480.0 361.8 Td (Audit Status) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 50.0 348.8 Td (Infinite Network Hang) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 155.0 348.8 Td (Simulated edge connection stall) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 275.0 348.8 Td (12s AbortController timeout triggers fallback email prompt) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 480.0 348.8 Td (RESOLVED \(FIX-NOW\)) Tj ET
+q 0.97 0.97 0.97 rg 46.0 335.3 520.0 11.0 re f Q
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 50.0 337.8 Td (Double-Submission Race) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 155.0 337.8 Td (Rapid multi-clicking on submit) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 275.0 337.8 Td (Button disabled instantly + text set to 'Sending...') Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 480.0 337.8 Td (RESOLVED \(FIX-NOW\)) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 50.0 326.8 Td (Spam Burst Submissions) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 155.0 326.8 Td (Automated rapid-fire post requests) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 275.0 326.8 Td (5-second local submission cooldown enforced in client script) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 480.0 326.8 Td (RESOLVED \(FIX-NOW\)) Tj ET
+q 0.97 0.97 0.97 rg 46.0 313.3 520.0 11.0 re f Q
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 50.0 315.8 Td (Blank Whitespace Bypass) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 155.0 315.8 Td (Submitting empty spaces \('   '\)) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 275.0 315.8 Td (Trim validation rejects strings under 2 chars with field focus) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 480.0 315.8 Td (RESOLVED \(FIX-NOW\)) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 50.0 304.8 Td (Honeypot Bot Probes) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 155.0 304.8 Td (Hidden field filled by scrapers) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 275.0 304.8 Td (netlify-honeypot='bot-field' silently drops spam submissions) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 480.0 304.8 Td (RESOLVED \(FIX-NOW\)) Tj ET
+BT /F1 8.0 Tf 0.35 0.35 0.35 rg 46.0 40.0 Td (FlyRank General AI Fluency  -  Capstone Submission: Send the Link  -  Jezreal Momoh) Tj ET
+BT /F1 8.0 Tf 0.35 0.35 0.35 rg 511.0 40.0 Td (Page 2 of 4) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612.0 792.0] /Contents 8 0 R /Resources << /Font << /F1 99 0 R /F2 98 0 R /F3 97 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 5154 >>
+stream
+BT /F2 9.5 Tf 0.05 0.05 0.05 rg 46.0 749.0 Td (6. The 3-to-5 Minute Screen Demo & Walkthrough Script) Tj ET
+BT /F1 8.0 Tf 0.10 0.10 0.10 rg 46.0 733.0 Td (The capstone submission includes a structured 3-to-5 minute screen demo walkthrough. The video guides an evaluator or prospective) Tj ET
+BT /F1 8.0 Tf 0.10 0.10 0.10 rg 46.0 722.0 Td (employer through the live portfolio, demonstrates the core proof statement in code, and tests the dynamic contact system in real) Tj ET
+BT /F1 8.0 Tf 0.10 0.10 0.10 rg 46.0 711.0 Td (time.) Tj ET
+q 0.92 0.92 0.92 rg 46.0 682.0 520.0 15.0 re f Q
+BT /F2 7.6 Tf 0.15 0.15 0.15 rg 50.0 686.0 Td (Timecode) Tj ET
+BT /F2 7.6 Tf 0.15 0.15 0.15 rg 100.0 686.0 Td (Screen Focus) Tj ET
+BT /F2 7.6 Tf 0.15 0.15 0.15 rg 195.0 686.0 Td (Spoken Narration Script) Tj ET
+BT /F2 7.6 Tf 0.15 0.15 0.15 rg 440.0 686.0 Td (Evaluator Objective) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 50.0 673.0 Td (0:00-0:45) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 100.0 673.0 Td (Hero section at live domain) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 195.0 673.0 Td ('Hi, I'm Jezreal Momoh, a Backend AI Engineer based in Ilorin, Nigeria. This is my live portfolio. The hero section makes my core proof statement clear in five seconds: I build Go and Python services, APIs, and model integrations with rigorous testing. Notice the direct actions: download my verified engineering CV or jump straight to selected work.') Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 440.0 673.0 Td (Proves core claim in <5s; clean editorial hierarchy) Tj ET
+q 0.97 0.97 0.97 rg 46.0 659.5 520.0 11.0 re f Q
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 50.0 662.0 Td (0:45-1:45) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 100.0 662.0 Td (Scrolling through #work \(01 to 04\)) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 195.0 662.0 Td ('Section two shows my four core projects: Themis \(multi-agent security reviewer using LangGraph\), LLM Enrichment API \(FastAPI with strict Pydantic schemas and 8/8 evals\), GemmaRoute \(dynamic model routing\), and The Polite Scraper. Every single project card links directly to public GitHub source code and architectural documentation.') Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 440.0 662.0 Td (Proves real work, GitHub source code, no placeholders) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 50.0 651.0 Td (1:45-3:00) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 100.0 651.0 Td (Interactive contact form testing) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 195.0 651.0 Td ('Now, let's look at the one dynamic feature: the contact form. This isn't a static mailto link. It connects to Netlify's edge form handler. Watch what happens when I type spaces and hit send: client-side validation catches it immediately. When I fill in real details and submit, the button disables to prevent double-submits, an AbortController enforces a 12-second timeout, and a success confirmation appears without reloading.') Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 440.0 651.0 Td (Demonstrates dynamic feature working + error handling) Tj ET
+q 0.97 0.97 0.97 rg 46.0 637.5 520.0 11.0 re f Q
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 50.0 640.0 Td (3:00-3:45) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 100.0 640.0 Td (Footer: Graduate Badge & Code) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 195.0 640.0 Td ('In the footer, you can see the official FlyRank Graduate Badge. Clicking Verify opens my live credential record FR-D11-556C8-0CB4D. Here in the source code, you can see privacy-first analytics from Cloudflare and GoatCounter - zero cookies, zero banners, 100% respecting visitor privacy.') Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 440.0 640.0 Td (Proves graduate badge integration & credential link) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 50.0 629.0 Td (3:45-4:30) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 100.0 629.0 Td (Runbook & Calendar Reminder) Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 195.0 629.0 Td ('Finally, to keep this platform compounding, I don't start from scratch for future projects. I have an active iCalendar reminder set for the 27th of every month, a 10-minute three-beat case study template, and my preserved Claude Project holding my voice card and design tokens. My next case study - an enterprise LLM metering engine - is already scheduled.') Tj ET
+BT /F1 7.2 Tf 0.20 0.20 0.20 rg 440.0 629.0 Td (Proves compounding habit and preserved AI context) Tj ET
+BT /F2 9.5 Tf 0.05 0.05 0.05 rg 46.0 611.0 Td (7. Dynamic Feature Reliability & Zero-Hang Guarantee) Tj ET
+BT /F1 8.0 Tf 0.10 0.10 0.10 rg 46.0 595.0 Td (Unlike generic portfolio templates that rely on fragile third-party iframes or unmonitored scripts, the contact form implements) Tj ET
+BT /F1 8.0 Tf 0.10 0.10 0.10 rg 46.0 584.0 Td (resilient client-side state management. In the event of a total network timeout \(>12 seconds\), the UI gracefully degrades,) Tj ET
+BT /F1 8.0 Tf 0.10 0.10 0.10 rg 46.0 573.0 Td (surfacing an informative notice: 'Request timed out on a slow connection. Please email directly at jezreelmomoh1234@gmail.com'.) Tj ET
+BT /F1 8.0 Tf 0.35 0.35 0.35 rg 46.0 40.0 Td (FlyRank General AI Fluency  -  Capstone Submission: Send the Link  -  Jezreal Momoh) Tj ET
+BT /F1 8.0 Tf 0.35 0.35 0.35 rg 511.0 40.0 Td (Page 3 of 4) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612.0 792.0] /Contents 10 0 R /Resources << /Font << /F1 99 0 R /F2 98 0 R /F3 97 0 R >> >> >>
+endobj
+10 0 obj
+<< /Length 6086 >>
+stream
+BT /F2 9.5 Tf 0.05 0.05 0.05 rg 46.0 749.0 Td (8. Exactly Where the Next Case Study Goes & Steps to Add One) Tj ET
+BT /F1 8.0 Tf 0.10 0.10 0.10 rg 46.0 733.0 Td (Adding new work to the portfolio is governed by an explicit 10-minute runbook documented in) Tj ET
+BT /F1 8.0 Tf 0.10 0.10 0.10 rg 46.0 722.0 Td (`portfolio/HOW_TO_ADD_A_CASE_STUDY.md`. New case studies are inserted directly into `site/index.html` inside `<div class='project-) Tj ET
+BT /F1 8.0 Tf 0.10 0.10 0.10 rg 46.0 711.0 Td (grid'>` under `<section id='work'>`, with an optional in-depth architecture note under `<ul class='notes-list'>`.) Tj ET
+q 0.12 0.13 0.15 rg 46.0 563.4 520.0 133.6 re f Q
+BT /F2 7.0 Tf 0.70 0.72 0.76 rg 54.0 686.5 Td (Standardized HTML Project Card Snippet) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 678.0 Td (<!-- Copy-Paste Project Card Template \(portfolio/site/index.html\) -->) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 668.2 Td (<article class="project-card">) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 658.4 Td (  <div class="project-topline">) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 648.6 Td (    <span class="project-number">05</span>) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 638.8 Td (    <span class="tag">FastAPI - SQLite WAL - Stripe</span>) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 629.0 Td (  </div>) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 619.2 Td (  <h3>LLM Usage Metering &amp; Billing Engine</h3>) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 609.4 Td (  <p>An enterprise metering engine with pure integer microcents math, RFC Idempotency-Key) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 599.6 Td (     deduplication, pre-action 429/402 quota barriers, and cryptographic HMAC-SHA256 Stripe sync.</p>) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 589.8 Td (  <a class="text-link" href="https://github.com/jezreal-dev/flyrank-capstone-metering-billing") Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 580.0 Td (     target="_blank" rel="noopener noreferrer">View repository <span aria-hidden="true">↗</span></a>) Tj ET
+BT /F3 6.8 Tf 0.88 0.90 0.92 rg 54.0 570.2 Td (</article>) Tj ET
+BT /F2 9.5 Tf 0.05 0.05 0.05 rg 46.0 555.4 Td (9. Named Next Real Piece of Work: LLM Usage Metering Engine) Tj ET
+q 0.96 0.96 0.96 rg 46.0 486.0 520.0 53.4 re f Q
+BT /F2 8.5 Tf 0.10 0.10 0.10 rg 54.0 528.4 Td (Three-Beat Formulation for Case Study #05 \(Week 2 Case Shape\)) Tj ET
+BT /F2 7.6 Tf 0.20 0.20 0.20 rg 56.0 515.4 Td (1. The Problem) Tj ET
+BT /F1 7.6 Tf 0.30 0.30 0.30 rg 201.0 515.4 Td (IEEE-754 floats leak money across millions of AI requests; retries cause double-billing and GPU loss.) Tj ET
+BT /F2 7.6 Tf 0.20 0.20 0.20 rg 56.0 504.6 Td (2. What I Did & Decided) Tj ET
+BT /F1 7.6 Tf 0.30 0.30 0.30 rg 201.0 504.6 Td (Built a pure-integer microcents engine \($1 = 10^8 microcents\), RFC Idempotency keys, 429/402 quota limits.) Tj ET
+BT /F2 7.6 Tf 0.20 0.20 0.20 rg 56.0 493.8 Td (3. What Came of It) Tj ET
+BT /F1 7.6 Tf 0.30 0.30 0.30 rg 201.0 493.8 Td (30/30 pytest tests passed, 5/5 probes verified, zero microcent drift, published to GitHub repository.) Tj ET
+BT /F2 9.5 Tf 0.05 0.05 0.05 rg 46.0 478.0 Td (10. Concrete Reminder Evidence & Preserved AI Context) Tj ET
+q 0.96 0.96 0.96 rg 46.0 376.2 520.0 85.8 re f Q
+BT /F2 8.5 Tf 0.10 0.10 0.10 rg 54.0 451.0 Td (Calendar Reminder Nudge & Claude Project System Knowledge) Tj ET
+BT /F2 7.6 Tf 0.20 0.20 0.20 rg 56.0 438.0 Td (Reminder Artifact) Tj ET
+BT /F1 7.6 Tf 0.30 0.30 0.30 rg 201.0 438.0 Td (portfolio/reminders/add-next-case-study.ics \(iCalendar standard format, RFC 5545\).) Tj ET
+BT /F2 7.6 Tf 0.20 0.20 0.20 rg 56.0 427.2 Td (Recurrence Schedule) Tj ET
+BT /F1 7.6 Tf 0.30 0.30 0.30 rg 201.0 427.2 Td (Monthly on the 27th at 10:00 AM \(Africa/Lagos, GMT+1\) for 6 consecutive months.) Tj ET
+BT /F2 7.6 Tf 0.20 0.20 0.20 rg 56.0 416.4 Td (Pre-Event Alarm) Tj ET
+BT /F1 7.6 Tf 0.30 0.30 0.30 rg 201.0 416.4 Td (30-minute display notification with link to runbook and repository queue.) Tj ET
+BT /F2 7.6 Tf 0.20 0.20 0.20 rg 56.0 405.6 Td (Preserved Voice Card) Tj ET
+BT /F1 7.6 Tf 0.30 0.30 0.30 rg 201.0 405.6 Td (Direct, warm, plain, zero buzzwords. Concise sentences rooted in measurable engineering facts.) Tj ET
+BT /F2 7.6 Tf 0.20 0.20 0.20 rg 56.0 394.8 Td (Preserved Tech Stack) Tj ET
+BT /F1 7.6 Tf 0.30 0.30 0.30 rg 201.0 394.8 Td (Go, Python 3.12, FastAPI, SQLite WAL, PostgreSQL, LangGraph, Pydantic v2, Docker, Netlify Edge.) Tj ET
+BT /F2 7.6 Tf 0.20 0.20 0.20 rg 56.0 384.0 Td (Preserved CSS System) Tj ET
+BT /F1 7.6 Tf 0.30 0.30 0.30 rg 201.0 384.0 Td (Light editorial palette \(--page: #faf9f6, --ink: #18181b, --accent-dark: #1d4ed8\), 44px+ touch targets.) Tj ET
+BT /F2 9.5 Tf 0.05 0.05 0.05 rg 46.0 368.2 Td (11. Capstone Verification Sign-Off) Tj ET
+q 0.96 0.96 0.96 rg 46.0 277.2 520.0 75.0 re f Q
+BT /F2 8.5 Tf 0.10 0.10 0.10 rg 54.0 341.2 Td (Formal Capstone Sign-Off & Evaluator Verification Record) Tj ET
+BT /F2 7.6 Tf 0.20 0.20 0.20 rg 56.0 328.2 Td (Candidate) Tj ET
+BT /F1 7.6 Tf 0.30 0.30 0.30 rg 201.0 328.2 Td (Jezreal Momoh \(jezreal-dev\)  <jezreelmomoh1234@gmail.com>) Tj ET
+BT /F2 7.6 Tf 0.20 0.20 0.20 rg 56.0 317.4 Td (Assignment) Tj ET
+BT /F1 7.6 Tf 0.30 0.30 0.30 rg 201.0 317.4 Td (General AI Fluency - Week 8 / Week 10 Capstone \(Send the Link: Launch, Demo & Story\)) Tj ET
+BT /F2 7.6 Tf 0.20 0.20 0.20 rg 56.0 306.6 Td (Live Portfolio URL) Tj ET
+BT /F1 7.6 Tf 0.30 0.30 0.30 rg 201.0 306.6 Td (https://jezreal-momoh-portfolio.netlify.app) Tj ET
+BT /F2 7.6 Tf 0.20 0.20 0.20 rg 56.0 295.8 Td (Deliverables) Tj ET
+BT /F1 7.6 Tf 0.30 0.30 0.30 rg 201.0 295.8 Td (Live Custom-Domain Site, Honest Launch Story, 5-Min Demo Script, Compounding Runbook, .ics Reminder) Tj ET
+BT /F2 7.6 Tf 0.20 0.20 0.20 rg 56.0 285.0 Td (Credential Verification) Tj ET
+BT /F1 7.6 Tf 0.30 0.30 0.30 rg 201.0 285.0 Td (FR-D11-556C8-0CB4D  |  Compliant with Zero Divider Lines Rule) Tj ET
+BT /F1 8.0 Tf 0.35 0.35 0.35 rg 46.0 40.0 Td (FlyRank General AI Fluency  -  Capstone Submission: Send the Link  -  Jezreal Momoh) Tj ET
+BT /F1 8.0 Tf 0.35 0.35 0.35 rg 511.0 40.0 Td (Page 4 of 4) Tj ET
+endstream
+endobj
+99 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+98 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+97 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000133 00000 n 
+0000000286 00000 n 
+0000007562 00000 n 
+0000007715 00000 n 
+0000014430 00000 n 
+0000014583 00000 n 
+0000019789 00000 n 
+0000019943 00000 n 
+0000026082 00000 n 
+0000026153 00000 n 
+0000026229 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+26298
+%%EOF

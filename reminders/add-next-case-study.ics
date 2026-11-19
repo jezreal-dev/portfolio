@@ -4,19 +4,19 @@ PRODID:-//Jezreal Momoh//FlyRank Portfolio Maintenance//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:portfolio-case-study-05-20261127@jezreal-dev
-DTSTAMP:20261118T134900Z
+UID:portfolio-case-study-05-metering-billing-20261127@jezreal-dev
+DTSTAMP:20261119T194500Z
 DTSTART:20261127T090000Z
 DTEND:20261127T093000Z
 RRULE:FREQ=MONTHLY;BYMONTHDAY=27;COUNT=6
-SUMMARY:Add Case Study #05 to Portfolio: FlyRank Study Coach Agent (FL-07)
-DESCRIPTION:Monthly portfolio update habit (FlyRank Impact Project).\n\nNext named work: FlyRank Source-Grounded Study Coach Agent (FL-07, n8n + Fireworks GLM 5.3 Flash + Docker Python tool server).\n\nSteps:\n1. Open preserved Claude Project (Voice Card: Direct, warm, plain, zero buzzwords).\n2. Draft in Week 2 three-beat shape (Problem / What I Did & Decided / What Came of It).\n3. Add card in portfolio/site/index.html inside .project-grid.\n4. Check mobile 375px + link status, push to GitHub, and drag site/ to Netlify Deploys.\n\nRunbook: https://github.com/jezreal-dev/portfolio/blob/main/HOW_TO_ADD_A_CASE_STUDY.md
+SUMMARY:Add Case Study #05 to Portfolio: LLM Usage Metering & Billing Engine
+DESCRIPTION:Monthly portfolio update habit (FlyRank General AI Fluency Capstone: Send the Link).\n\nNext named work: LLM Usage Metering & Billing Engine (flyrank-capstone-metering-billing: pure integer microcents math, RFC Idempotency-Key deduplication, pre-action 429/402 quota barriers, and cryptographic Stripe webhook sync).\n\nSteps:\n1. Open preserved Claude Project (Voice Card: Direct, warm, plain, zero buzzwords).\n2. Draft in Week 2 three-beat shape (Problem / What I Did & Decided / What Came of It).\n3. Add card in portfolio/site/index.html inside .project-grid.\n4. Check mobile 375px + link status, push to GitHub, and deploy to Netlify.\n\nRunbook: https://github.com/jezreal-dev/portfolio/blob/main/SEND_THE_LINK_LAUNCH_DEMO_STORY.md
 LOCATION:https://jezreal-momoh-portfolio.netlify.app
 STATUS:CONFIRMED
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:Time to add Case Study #05 (FlyRank Study Coach Agent) to your live portfolio!
+DESCRIPTION:Time to add Case Study #05 (LLM Usage Metering & Billing Engine) to your live portfolio!
 END:VALARM
 END:VEVENT
 END:VCALENDAR
