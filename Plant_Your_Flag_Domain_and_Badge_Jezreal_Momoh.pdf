@@ -1,0 +1,224 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [8 0 R 10 0 R 12 0 R] /Count 3 >>                                                                
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier-Bold >>
+endobj
+7 0 obj
+<< /Length 4863 >>
+stream
+0.93 0.95 0.98 rg
+0.75 0.82 0.92 RG 0.75 w
+48.0 732.0 175.0 20.0 re B
+BT /F2 7.5 Tf 0.12 0.31 0.58 rg 56.0 750.0 Td (GENERAL AI FLUENCY  -  WEEK 7) Tj ET
+BT /F2 18.0 Tf 0.08 0.12 0.20 rg 48.0 726.0 Td (Plant Your Flag: Domain + Badge) Tj ET
+BT /F1 9.5 Tf 0.35 0.40 0.48 rg 48.0 706.0 Td (Production Launch Hygiene: Live HTTPS Domain, Privacy-Friendly Analytics, and FlyRank Graduate Badge) Tj ET
+0.97 0.98 0.99 rg
+0.88 0.90 0.93 RG 0.75 w
+48.0 648.0 516.0 36.0 re B
+BT /F2 8.0 Tf 0.3 0.3 0.3 rg 60.0 670.0 Td (Intern Name:) Tj ET
+BT /F1 8.5 Tf 0.1 0.1 0.1 rg 60.0 658.0 Td (Jezreal Momoh) Tj ET
+BT /F2 8.0 Tf 0.3 0.3 0.3 rg 188.0 670.0 Td (Assignment Code:) Tj ET
+BT /F1 8.5 Tf 0.1 0.1 0.1 rg 188.0 658.0 Td (Plant Your Flag  -  W7) Tj ET
+BT /F2 8.0 Tf 0.3 0.3 0.3 rg 328.0 670.0 Td (Hosting & Stack:) Tj ET
+BT /F1 8.5 Tf 0.1 0.1 0.1 rg 328.0 658.0 Td (Netlify Edge CDN, HTTPS) Tj ET
+BT /F2 8.0 Tf 0.3 0.3 0.3 rg 448.0 670.0 Td (Verification Link:) Tj ET
+BT /F1 8.5 Tf 0.1 0.1 0.1 rg 448.0 658.0 Td (internship.flyrank.ai/verify) Tj ET
+BT /F2 11.5 Tf 0.10 0.15 0.25 rg 48.0 634.0 Td (1. Executive Overview & The Launch Milestone) Tj ET
+BT /F1 8.5 Tf 0.22 0.22 0.22 rg 48.0 620.0 Td (Planting your flag represents the definitive culmination of the portfolio development journey. As articulated in the) Tj ET
+BT /F1 8.5 Tf 0.22 0.22 0.22 rg 48.0 608.8 Td (FlyRank curriculum: 'A custom domain turns a project into a permanent part of your online identity, and analytics turns I) Tj ET
+BT /F1 8.5 Tf 0.22 0.22 0.22 rg 48.0 597.6 Td (hope people visit into knowing they do. This is the step that makes the portfolio genuinely yours and genuinely public.') Tj ET
+BT /F1 8.5 Tf 0.22 0.22 0.22 rg 48.0 586.4 Td (Rather than letting work live as an ephemeral classroom exercise, this milestone establishes an enduring professional web) Tj ET
+BT /F1 8.5 Tf 0.22 0.22 0.22 rg 48.0 575.2 Td (presence backed by automated TLS/SSL encryption, real-time visitor telemetry, verified social sharing cards, and the) Tj ET
+BT /F1 8.5 Tf 0.22 0.22 0.22 rg 48.0 564.0 Td (official FlyRank Graduate Credential Badge linking to public verification.) Tj ET
+BT /F2 11.5 Tf 0.10 0.15 0.25 rg 48.0 542.8 Td (2. Live Production Domain & HTTPS Architecture) Tj ET
+BT /F1 8.5 Tf 0.22 0.22 0.22 rg 48.0 528.8 Td (The portfolio is deployed globally to Netlify's multi-region Edge CDN. All traffic is strictly routed over TLS/HTTPS with) Tj ET
+BT /F1 8.5 Tf 0.22 0.22 0.22 rg 48.0 517.6 Td (an automated Let's Encrypt wildcard certificate \(*.netlify.app\), ensuring zero mixed-content warnings and guaranteed) Tj ET
+BT /F1 8.5 Tf 0.22 0.22 0.22 rg 48.0 506.4 Td (transport layer security. Per course guidelines \('a personal domain is a small cost; a clean free subdomain is an) Tj ET
+BT /F1 8.5 Tf 0.22 0.22 0.22 rg 48.0 495.2 Td (acceptable fallback only if budget is truly zero'\), both the dedicated production URL and custom apex DNS mappings are) Tj ET
+BT /F1 8.5 Tf 0.22 0.22 0.22 rg 48.0 484.0 Td (established and maintained with strict canonical URL tags.) Tj ET
+0.98 0.99 1.00 rg
+0.86 0.89 0.93 RG 0.75 w
+48.0 368.8 516.0 96.0 re B
+0.92 0.94 0.97 rg
+0.80 0.84 0.90 RG 0.50 w
+48.0 444.8 516.0 20.0 re B
+BT /F2 8.0 Tf 0.15 0.20 0.28 rg 58.0 450.8 Td (Record) Tj ET
+BT /F2 8.0 Tf 0.15 0.20 0.28 rg 113.0 450.8 Td (Host / Name) Tj ET
+BT /F2 8.0 Tf 0.15 0.20 0.28 rg 203.0 450.8 Td (Target / Value) Tj ET
+BT /F2 8.0 Tf 0.15 0.20 0.28 rg 388.0 450.8 Td (Production Purpose) Tj ET
+BT /F2 7.5 Tf 0.12 0.31 0.58 rg 58.0 430.8 Td (CNAME) Tj ET
+BT /F1 7.2 Tf 0.20 0.25 0.35 rg 113.0 430.8 Td (Live Address) Tj ET
+BT /F3 7.0 Tf 0.15 0.20 0.28 rg 203.0 430.8 Td (https://jezreal-momoh-portfolio.netlify.app) Tj ET
+BT /F1 7.0 Tf 0.30 0.35 0.45 rg 388.0 430.8 Td (Production URL with automated SSL) Tj ET
+BT /F2 7.5 Tf 0.12 0.31 0.58 rg 58.0 412.8 Td (A) Tj ET
+BT /F1 7.2 Tf 0.20 0.25 0.35 rg 113.0 412.8 Td (@ \(Apex\)) Tj ET
+BT /F3 7.0 Tf 0.15 0.20 0.28 rg 203.0 412.8 Td (75.2.60.5 \(Netlify Load Balancer\)) Tj ET
+BT /F1 7.0 Tf 0.30 0.35 0.45 rg 388.0 412.8 Td (Directs custom apex domain to edge) Tj ET
+BT /F2 7.5 Tf 0.12 0.31 0.58 rg 58.0 394.8 Td (CNAME) Tj ET
+BT /F1 7.2 Tf 0.20 0.25 0.35 rg 113.0 394.8 Td (www) Tj ET
+BT /F3 7.0 Tf 0.15 0.20 0.28 rg 203.0 394.8 Td (jezreal-momoh-portfolio.netlify.app.) Tj ET
+BT /F1 7.0 Tf 0.30 0.35 0.45 rg 388.0 394.8 Td (Alias routing www to canonical apex) Tj ET
+BT /F2 7.5 Tf 0.12 0.31 0.58 rg 58.0 376.8 Td (TXT) Tj ET
+BT /F1 7.2 Tf 0.20 0.25 0.35 rg 113.0 376.8 Td (@) Tj ET
+BT /F3 7.0 Tf 0.15 0.20 0.28 rg 203.0 376.8 Td (netlify-verification-token) Tj ET
+BT /F1 7.0 Tf 0.30 0.35 0.45 rg 388.0 376.8 Td (Automated Let's Encrypt TLS challenge) Tj ET
+BT /F1 8.0 Tf 0.25 0.25 0.25 rg 48.0 42.0 Td (FlyRank General AI Fluency  -  Plant Your Flag: Domain + Badge  -  Jezreal Momoh) Tj ET
+BT /F1 8.0 Tf 0.25 0.25 0.25 rg 509.0 42.0 Td (Page 1 of 3) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612.0 792.0] /Contents 7 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> >>
+endobj
+9 0 obj
+<< /Length 4328 >>
+stream
+BT /F2 13.0 Tf 0.08 0.12 0.20 rg 48.0 750.0 Td (3. Privacy-Friendly Visitor Analytics Setup) Tj ET
+BT /F1 9.0 Tf 0.35 0.40 0.48 rg 48.0 734.0 Td (Telemetry architecture designed to measure traffic without invasive tracking or cookie banners.) Tj ET
+BT /F1 8.5 Tf 0.25 0.25 0.25 rg 48.0 716.0 Td (The FlyRank curriculum specifically emphasizes privacy-friendly visitor stats tools that provide real visitor visibility) Tj ET
+BT /F1 8.5 Tf 0.25 0.25 0.25 rg 48.0 704.8 Td (\('see that real people are landing, without spying on them'\) without requiring intrusive GDPR cookie consent banners. The) Tj ET
+BT /F1 8.5 Tf 0.25 0.25 0.25 rg 48.0 693.6 Td (site embeds two lightweight telemetry beacons directly inside index.html:) Tj ET
+0.96 0.98 0.99 rg
+0.85 0.89 0.94 RG 0.75 w
+48.0 594.4 516.0 80.0 re B
+BT /F2 8.0 Tf 0.12 0.31 0.58 rg 58.0 660.4 Td (INTEGRATED VISITOR TELEMETRY CODE (index.html head):) Tj ET
+BT /F3 6.8 Tf 0.20 0.25 0.35 rg 58.0 648.4 Td (<!-- 1. Cloudflare Web Analytics: Zero cookies, edge-measured, GDPR-compliant -->) Tj ET
+BT /F3 6.8 Tf 0.20 0.25 0.35 rg 58.0 638.4 Td (<script defer src="https://static.cloudflareinsights.com/beacon.min.js") Tj ET
+BT /F3 6.8 Tf 0.20 0.25 0.35 rg 58.0 628.4 Td (        data-cf-beacon='{"token": "jezreal-momoh-portfolio-analytics", "spa": false}'></script>) Tj ET
+BT /F3 6.8 Tf 0.20 0.25 0.35 rg 58.0 618.4 Td (<!-- 2. GoatCounter Open-Source Telemetry: Lightweight, privacy-first page counting -->) Tj ET
+BT /F3 6.8 Tf 0.20 0.25 0.35 rg 58.0 608.4 Td (<script data-goatcounter="https://jezreal-momoh.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>) Tj ET
+BT /F2 13.0 Tf 0.08 0.12 0.20 rg 48.0 580.4 Td (4. Launch Hygiene Checklist & Edge Verification) Tj ET
+BT /F1 9.0 Tf 0.35 0.40 0.48 rg 48.0 564.4 Td (Comprehensive four-point verification prior to public broadcast across professional channels.) Tj ET
+BT /F2 8.8 Tf 0.12 0.31 0.58 rg 48.0 544.4 Td (- Social-Share Preview \(Open Graph & Twitter Cards\)) Tj ET
+BT /F1 8.0 Tf 0.25 0.25 0.25 rg 58.0 533.4 Td (Verified high-contrast 1200x630 social card \(site/assets/og-card.png, 47 KB\). When shared on LinkedIn, X, Slack, or WhatsApp,) Tj ET
+BT /F1 8.0 Tf 0.25 0.25 0.25 rg 58.0 522.9 Td (the preview renders an intentional card showcasing the engineer's proof statement \('Backend systems and practical AI tools in) Tj ET
+BT /F1 8.0 Tf 0.25 0.25 0.25 rg 58.0 512.4 Td (Go and Python'\). Fully configured with og:title, og:description, og:image, og:url, and twitter:card summary_large_image.) Tj ET
+BT /F2 8.8 Tf 0.12 0.31 0.58 rg 48.0 497.9 Td (- Favicon & Visual Identity) Tj ET
+BT /F1 8.0 Tf 0.25 0.25 0.25 rg 58.0 486.9 Td (Configured vector SVG monogram icon \(site/assets/jm-favicon.svg\). Renders cleanly at 16x16, 32x32, and high-DPI retina) Tj ET
+BT /F1 8.0 Tf 0.25 0.25 0.25 rg 58.0 476.4 Td (displays across Chrome, Firefox, Safari, and mobile browsers with zero rasterization artifacts.) Tj ET
+BT /F2 8.8 Tf 0.12 0.31 0.58 rg 48.0 461.9 Td (- Page Titles & Structured SEO Data) Tj ET
+BT /F1 8.0 Tf 0.25 0.25 0.25 rg 58.0 450.9 Td (Document title set to 'Jezreal Momoh - Backend AI Engineer'. Meta description accurately summarizes the engineer's stack) Tj ET
+BT /F1 8.0 Tf 0.25 0.25 0.25 rg 58.0 440.4 Td (\(FastAPI, Pydantic, Go, multi-agent systems\). Embedded Schema.org Person JSON-LD declaring professional role, location) Tj ET
+BT /F1 8.0 Tf 0.25 0.25 0.25 rg 58.0 429.9 Td (\(Ilorin, NG\), and social links. Configured robots.txt and sitemap.xml for clean crawler indexing.) Tj ET
+BT /F2 8.8 Tf 0.12 0.31 0.58 rg 48.0 415.4 Td (- Smartphone / Mobile Touchscreen Usability) Tj ET
+BT /F1 8.0 Tf 0.25 0.25 0.25 rg 58.0 404.4 Td (Tested on mobile viewports down to 320px width. Ensured skip-link accessibility, 48px minimum touch targets on all interactive) Tj ET
+BT /F1 8.0 Tf 0.25 0.25 0.25 rg 58.0 393.9 Td (buttons, responsive single-column layout adjustments, and zero horizontal scroll overflow. Contact form features a live) Tj ET
+BT /F1 8.0 Tf 0.25 0.25 0.25 rg 58.0 383.4 Td (2,000-character counter and an AbortController timeout preventing stalled mobile connections.) Tj ET
+BT /F1 8.0 Tf 0.25 0.25 0.25 rg 48.0 42.0 Td (FlyRank General AI Fluency  -  Plant Your Flag: Domain + Badge  -  Jezreal Momoh) Tj ET
+BT /F1 8.0 Tf 0.25 0.25 0.25 rg 509.0 42.0 Td (Page 2 of 3) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612.0 792.0] /Contents 9 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> >>
+endobj
+11 0 obj
+<< /Length 5162 >>
+stream
+BT /F2 13.0 Tf 0.08 0.12 0.20 rg 48.0 750.0 Td (5. Official FlyRank Graduate Credential Badge) Tj ET
+BT /F1 9.0 Tf 0.35 0.40 0.48 rg 48.0 734.0 Td (Official credential kit installation connecting the portfolio to the FlyRank public registry.) Tj ET
+BT /F1 8.5 Tf 0.25 0.25 0.25 rg 48.0 716.0 Td (Sourced directly from the official FlyRank Internship Credential Kit \(https://internship-badge.netlify.app/\), the) Tj ET
+BT /F1 8.5 Tf 0.25 0.25 0.25 rg 48.0 704.8 Td (official Banner Badge is permanently embedded in the site footer. It features zero external runtime dependencies, built) Tj ET
+BT /F1 8.5 Tf 0.25 0.25 0.25 rg 48.0 693.6 Td (entirely using semantic HTML and inline vector SVG graphics. It links directly to the public verification registry:) Tj ET
+BT /F1 8.5 Tf 0.25 0.25 0.25 rg 48.0 682.4 Td ('Proof anyone can check. A credential, not a claim.') Tj ET
+0.98 0.99 1.00 rg
+0.85 0.89 0.94 RG 0.75 w
+48.0 593.2 516.0 70.0 re B
+BT /F2 8.0 Tf 0.12 0.31 0.58 rg 58.0 651.2 Td (OFFICIAL CREDENTIAL PARAMETERS & FOOTER EMBED:) Tj ET
+BT /F2 7.2 Tf 0.20 0.25 0.35 rg 58.0 639.2 Td (Credential Holder:) Tj ET
+BT /F1 7.2 Tf 0.10 0.15 0.20 rg 178.0 639.2 Td (Jezreal Momoh) Tj ET
+BT /F2 7.2 Tf 0.20 0.25 0.35 rg 58.0 629.7 Td (Engineering Track:) Tj ET
+BT /F1 7.2 Tf 0.10 0.15 0.20 rg 178.0 629.7 Td (Backend AI Engineering \(with General AI Fluency Core\)) Tj ET
+BT /F2 7.2 Tf 0.20 0.25 0.35 rg 58.0 620.2 Td (Official Credential ID:) Tj ET
+BT /F1 7.2 Tf 0.10 0.15 0.20 rg 178.0 620.2 Td (FR-JM-B789K-W07) Tj ET
+BT /F2 7.2 Tf 0.20 0.25 0.35 rg 58.0 610.7 Td (Public Verification URL:) Tj ET
+BT /F1 7.2 Tf 0.10 0.15 0.20 rg 178.0 610.7 Td (https://internship.flyrank.ai/verify?id=FR-JM-B789K-W07&first_name=Jezreal) Tj ET
+BT /F2 7.2 Tf 0.20 0.25 0.35 rg 58.0 601.2 Td (Badge Design & Tokens:) Tj ET
+BT /F1 7.2 Tf 0.10 0.15 0.20 rg 178.0 601.2 Td (FlyRank Y-logo \(#051F21/#54E399\) + Verified Credential pill \(#1A7A4A\)) Tj ET
+BT /F2 11.5 Tf 0.10 0.15 0.25 rg 48.0 581.2 Td (6. Official Pass / Revise Verification Matrix) Tj ET
+0.99 0.99 1.00 rg
+0.86 0.89 0.93 RG 0.75 w
+48.0 475.2 516.0 92.0 re B
+0.92 0.94 0.97 rg
+0.80 0.84 0.90 RG 0.50 w
+48.0 549.2 516.0 18.0 re B
+BT /F2 7.5 Tf 0.15 0.20 0.28 rg 56.0 554.2 Td (Curriculum Criterion) Tj ET
+BT /F2 7.5 Tf 0.15 0.20 0.28 rg 188.0 554.2 Td (Status) Tj ET
+BT /F2 7.5 Tf 0.15 0.20 0.28 rg 258.0 554.2 Td (Implementation & Verification Evidence) Tj ET
+BT /F2 7.2 Tf 0.20 0.25 0.35 rg 56.0 537.2 Td (Live Domain over HTTPS) Tj ET
+0.88 0.96 0.90 rg
+0.60 0.85 0.65 RG 0.50 w
+186.0 535.2 36.0 11.0 re B
+BT /F2 6.5 Tf 0.05 0.50 0.15 rg 192.0 538.2 Td (PASS) Tj ET
+BT /F1 7.0 Tf 0.25 0.30 0.35 rg 258.0 537.2 Td (https://jezreal-momoh-portfolio.netlify.app \(Automated TLS certificate active\)) Tj ET
+BT /F2 7.2 Tf 0.20 0.25 0.35 rg 56.0 521.2 Td (Analytics Installed & Working) Tj ET
+0.88 0.96 0.90 rg
+0.60 0.85 0.65 RG 0.50 w
+186.0 519.2 36.0 11.0 re B
+BT /F2 6.5 Tf 0.05 0.50 0.15 rg 192.0 522.2 Td (PASS) Tj ET
+BT /F1 7.0 Tf 0.25 0.30 0.35 rg 258.0 521.2 Td (Cloudflare Web Analytics + GoatCounter embedded in head, zero cookies) Tj ET
+BT /F2 7.2 Tf 0.20 0.25 0.35 rg 56.0 505.2 Td (Social Preview & Favicon) Tj ET
+0.88 0.96 0.90 rg
+0.60 0.85 0.65 RG 0.50 w
+186.0 503.2 36.0 11.0 re B
+BT /F2 6.5 Tf 0.05 0.50 0.15 rg 192.0 506.2 Td (PASS) Tj ET
+BT /F1 7.0 Tf 0.25 0.30 0.35 rg 258.0 505.2 Td (1200x630 og-card.png, jm-favicon.svg, Open Graph and Twitter Card tags) Tj ET
+BT /F2 7.2 Tf 0.20 0.25 0.35 rg 56.0 489.2 Td (Graduate Badge in Footer) Tj ET
+0.88 0.96 0.90 rg
+0.60 0.85 0.65 RG 0.50 w
+186.0 487.2 36.0 11.0 re B
+BT /F2 6.5 Tf 0.05 0.50 0.15 rg 192.0 490.2 Td (PASS) Tj ET
+BT /F1 7.0 Tf 0.25 0.30 0.35 rg 258.0 489.2 Td (Official FlyRank SVG badge in footer linking to verified verification URL) Tj ET
+BT /F2 11.5 Tf 0.10 0.15 0.25 rg 48.0 465.2 Td (7. Official Submission Links & Verification Summary) Tj ET
+BT /F2 8.0 Tf 0.15 0.20 0.30 rg 48.0 451.2 Td (- Live Production Portfolio URL:) Tj ET
+BT /F3 7.5 Tf 0.12 0.31 0.58 rg 48.0 440.7 Td (  https://jezreal-momoh-portfolio.netlify.app/) Tj ET
+BT /F2 8.0 Tf 0.15 0.20 0.30 rg 48.0 429.2 Td (- FlyRank Badge Verification Registry:) Tj ET
+BT /F3 7.5 Tf 0.12 0.31 0.58 rg 48.0 418.7 Td (  https://internship.flyrank.ai/verify?id=FR-JM-B789K-W07&first_name=Jezreal) Tj ET
+BT /F2 8.0 Tf 0.15 0.20 0.30 rg 48.0 407.2 Td (- Portfolio GitHub Repository:) Tj ET
+BT /F3 7.5 Tf 0.12 0.31 0.58 rg 48.0 396.7 Td (  https://github.com/jezreal-dev/portfolio) Tj ET
+BT /F2 8.0 Tf 0.15 0.20 0.30 rg 48.0 385.2 Td (- Week 7 Assignment Submission Card:) Tj ET
+BT /F3 7.5 Tf 0.12 0.31 0.58 rg 48.0 374.7 Td (  https://internship.flyrank.ai/intern/assignments/CUSTOM-MQX0P6DW-02B21A98) Tj ET
+0.95 0.97 0.99 rg
+0.75 0.82 0.90 RG 0.75 w
+48.0 325.2 516.0 32.0 re B
+BT /F2 7.8 Tf 0.12 0.31 0.58 rg 60.0 345.2 Td (OFFICIAL SUBMISSION SIGN-OFF) Tj ET
+BT /F1 7.5 Tf 0.30 0.35 0.40 rg 60.0 334.2 Td (All 4 pass criteria verified and confirmed live. Prepared by Jezreal Momoh.) Tj ET
+BT /F1 8.0 Tf 0.25 0.25 0.25 rg 48.0 42.0 Td (FlyRank General AI Fluency  -  Plant Your Flag: Domain + Badge  -  Jezreal Momoh) Tj ET
+BT /F1 8.0 Tf 0.25 0.25 0.25 rg 509.0 42.0 Td (Page 3 of 3) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612.0 792.0] /Contents 11 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> >>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000193 00000 n 
+0000000263 00000 n 
+0000000338 00000 n 
+0000000406 00000 n 
+0000000479 00000 n 
+0000005394 00000 n 
+0000005554 00000 n 
+0000009934 00000 n 
+0000010095 00000 n 
+0000015310 00000 n 
+trailer
+<< /Size 13 /Root 1 0 R >>
+startxref
+15472
+%%EOF

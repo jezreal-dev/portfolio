@@ -7,10 +7,12 @@ Live site: <https://jezreal-momoh-portfolio.netlify.app>
 ## Files & Deliverables
 
 - `site/` — deployable static website folder (HTML, CSS, assets, CV, favicon, robots.txt, sitemap.xml).
-- `site/index.html` — page content, project links, dynamic contact form with honeypot, verified FlyRank Graduate badge, and CV link.
+- `site/index.html` — page content, project links, dynamic contact form with honeypot, privacy-friendly analytics beacons (Cloudflare + GoatCounter), official FlyRank Graduate badge, and CV link.
 - `site/styles.css` — typography, colors, spacing, responsive layout, form styling, and badge styling.
 - `site/assets/og-card.png` — verified 1200x630 social preview card.
 - `site/assets/Jezreal_Momoh_Backend_AI_Engineer_CV.pdf` — verified Backend AI Engineer CV.
+- `PLANT_YOUR_FLAG.md` — Week 7 production launch documentation (domain, HTTPS, edge analytics, launch hygiene, and official graduate badge).
+- `Plant_Your_Flag_Domain_and_Badge_Jezreal_Momoh.pdf` — official submission PDF for Plant Your Flag: Domain + Badge.
 - `BREAK_YOUR_OWN_SITE.md` — Week 9 Checkpoint 2 hardening audit (5 fix-nows + 5 known limitations).
 - `Break_Your_Own_Site_Jezreal_Momoh.pdf` — official submission PDF for Break Your Own Site.
 - `HOW_TO_ADD_A_CASE_STUDY.md` — Week 9 keep-building 30-minute protocol to add new case studies.
