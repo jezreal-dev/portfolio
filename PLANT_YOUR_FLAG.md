@@ -129,12 +129,12 @@ Sourced directly from the official **FlyRank Internship Credential Kit** ([`http
   - **Credential ID:** `FR-D11-556C8-0CB4D`
   - **Public Verification Link:**
     ```text
-    https://internship.flyrank.ai/verify?id=FR-D11-556C8-0CB4D&first_name=Jezreal
+    https://internship.flyrank.ai/verify/FR-D11-556C8-0CB4D?first_name=Jezreal
     ```
 
 ### Footer HTML Snippet
 ```html
-<a href="https://internship.flyrank.ai/verify?id=FR-D11-556C8-0CB4D&amp;first_name=Jezreal" 
+<a href="https://internship.flyrank.ai/verify/FR-D11-556C8-0CB4D?first_name=Jezreal" 
    target="_blank" 
    rel="noopener noreferrer" 
    class="flyrank-official-badge" 
