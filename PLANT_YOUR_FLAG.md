@@ -126,19 +126,19 @@ Sourced directly from the official **FlyRank Internship Credential Kit** ([`http
 - **Credential Identification:**
   - **Intern:** Jezreal Momoh
   - **Track:** Backend AI Engineering
-  - **Credential ID:** `FR-JM-B789K-W07`
+  - **Credential ID:** `FR-D11-556C8-0CB4D`
   - **Public Verification Link:**
     ```text
-    https://internship.flyrank.ai/verify?id=FR-JM-B789K-W07&first_name=Jezreal
+    https://internship.flyrank.ai/verify?id=FR-D11-556C8-0CB4D&first_name=Jezreal
     ```
 
 ### Footer HTML Snippet
 ```html
-<a href="https://internship.flyrank.ai/verify?id=FR-JM-B789K-W07&amp;first_name=Jezreal" 
+<a href="https://internship.flyrank.ai/verify?id=FR-D11-556C8-0CB4D&amp;first_name=Jezreal" 
    target="_blank" 
    rel="noopener noreferrer" 
    class="flyrank-official-badge" 
-   aria-label="Verify Jezreal Momoh's FlyRank AI Internship credential FR-JM-B789K-W07">
+   aria-label="Verify Jezreal Momoh's FlyRank AI Internship credential FR-D11-556C8-0CB4D">
   <!-- Inline SVG FlyRank Emblem -->
   <svg width="32" height="32" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
     <rect width="96" height="96" rx="22" fill="#051F21"></rect>
@@ -147,7 +147,7 @@ Sourced directly from the official **FlyRank Internship Credential Kit** ([`http
   <span style="display:flex;flex-direction:column;gap:2px;min-width:0;text-align:left">
     <span style="font-family:monospace;font-size:8px;font-weight:700;text-transform:uppercase;color:rgba(5,31,33,0.55)">FlyRank AI Internship</span>
     <span style="font-size:12.5px;font-weight:600;color:#051F21">Verified Credential</span>
-    <span style="font-family:monospace;font-size:9.5px;color:#1A7A4A">FR-JM-B789K-W07</span>
+    <span style="font-family:monospace;font-size:9.5px;color:#1A7A4A">FR-D11-556C8-0CB4D</span>
   </span>
   <span style="display:flex;align-items:center;gap:4px;padding:4px 8px;background:rgba(84,227,153,0.15);border-radius:9999px;font-size:11px;font-weight:600;color:#1A7A4A">
     <svg width="11" height="11" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="12" r="10" stroke="#1A7A4A" stroke-width="1.5"></circle><path d="M7.9 12.3l2.8 2.8 5.4-5.8" stroke="#1A7A4A" stroke-width="1.8" stroke-linecap="round"></path></svg>Verify
