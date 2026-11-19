@@ -1,0 +1,203 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [6 0 R 8 0 R 10 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Length 5633 >>
+stream
+BT /F2 12.5 Tf 0.05 0.05 0.05 rg 46.0 754.0 Td (The Plan to Keep Building - Portfolio Compounding Habit Dossier) Tj ET
+BT /F1 7.6 Tf 0.35 0.35 0.35 rg 46.0 735.0 Td (Author: Jezreal Momoh  |  Track: General AI Fluency  |  Milestone: Week 8 Submit Phase  |  Portal ID: CUSTOM-MQX0Q5QE-6FE1938E  |  Live) Tj ET
+BT /F1 7.6 Tf 0.35 0.35 0.35 rg 46.0 725.0 Td (URL: jezreal-momoh-portfolio.netlify.app) Tj ET
+BT /F2 9.2 Tf 0.05 0.05 0.05 rg 46.0 705.5 Td (1. Strategic Context & Why the Habit Matters) Tj ET
+BT /F1 7.8 Tf 0.10 0.10 0.10 rg 46.0 690.5 Td (A portfolio that never gets a second project goes stale and stops proving anything new. The critical difference between a static) Tj ET
+BT /F1 7.8 Tf 0.10 0.10 0.10 rg 46.0 680.1 Td (classroom artifact and an enduring career engine is one simple operational habit, instituted immediately while deployment workflows,) Tj ET
+BT /F1 7.8 Tf 0.10 0.10 0.10 rg 46.0 669.7 Td (architectural context, and identity patterns remain fresh. This dossier establishes an explicit, low-friction operating rhythm that) Tj ET
+BT /F1 7.8 Tf 0.10 0.10 0.10 rg 46.0 659.3 Td (turns case study addition from a daunting full rebuild into a rapid 10-minute cadence.) Tj ET
+BT /F2 9.2 Tf 0.05 0.05 0.05 rg 46.0 643.4 Td (2. Target Code Slots: Exactly Where the Next Case Study Goes) Tj ET
+BT /F1 7.8 Tf 0.10 0.10 0.10 rg 46.0 628.4 Td (My portfolio is a zero-build static site tracked on GitHub and deployed on Netlify Edge CDN. To guarantee zero hesitation when adding) Tj ET
+BT /F1 7.8 Tf 0.10 0.10 0.10 rg 46.0 618.0 Td (new work, the exact HTML injection points and styling containers are mapped below:) Tj ET
+q 0.92 0.92 0.92 rg 46.0 590.6 520.0 14.0 re f Q
+BT /F2 7.4 Tf 0.15 0.15 0.15 rg 50.0 594.6 Td (Component Slot) Tj ET
+BT /F2 7.4 Tf 0.15 0.15 0.15 rg 145.0 594.6 Td (Repository File Path) Tj ET
+BT /F2 7.4 Tf 0.15 0.15 0.15 rg 270.0 594.6 Td (DOM Parent Selector) Tj ET
+BT /F2 7.4 Tf 0.15 0.15 0.15 rg 410.0 594.6 Td (Structural Layout Rule) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 50.0 582.1 Td (Primary Project Card) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 145.0 582.1 Td (portfolio/site/index.html) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 270.0 582.1 Td (div.project-grid \(under section#work\)) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 410.0 582.1 Td (2-column desktop grid \(repeat\(2, minmax\(0, 1fr\)\)\), stacks to 1-col on mobile) Tj ET
+q 0.97 0.97 0.97 rg 46.0 569.1 520.0 10.5 re f Q
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 50.0 571.6 Td (Deep-Dive Note Link) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 145.0 571.6 Td (portfolio/site/index.html) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 270.0 571.6 Td (ul.notes-list \(under section#notes\)) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 410.0 571.6 Td (Semantic <li> link referencing technical post, README, or whitepaper) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 50.0 561.1 Td (Visual Token Stylesheet) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 145.0 561.1 Td (portfolio/site/styles.css) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 270.0 561.1 Td (:root & article.project-card) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 410.0 561.1 Td (Light editorial palette, 44px+ touch targets, zero external CSS dependencies) Tj ET
+q 0.97 0.97 0.97 rg 46.0 548.1 520.0 10.5 re f Q
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 50.0 550.6 Td (Operational Runbook) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 145.0 550.6 Td (portfolio/HOW_TO_ADD_A_CASE_STUDY.md) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 270.0 550.6 Td (Section 1 & 2) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 410.0 550.6 Td (Step-by-step checklist ensuring consistent tone and link verification) Tj ET
+BT /F2 9.2 Tf 0.05 0.05 0.05 rg 46.0 538.6 Td (3. The 10-Minute Case Addition Protocol \(Six Steps\)) Tj ET
+BT /F1 7.8 Tf 0.10 0.10 0.10 rg 46.0 523.6 Td (By reusing the Week 2 three-beat shape \(Problem, What I Did & Decided, What Came of It\), writing the update takes under 10 minutes:) Tj ET
+q 0.96 0.96 0.96 rg 46.0 430.0 520.0 80.2 re f Q
+BT /F2 8.2 Tf 0.10 0.10 0.10 rg 54.0 499.7 Td (The Six-Step Addition Execution Loop) Tj ET
+BT /F2 7.4 Tf 0.20 0.20 0.20 rg 56.0 487.7 Td (Step 1: Open Preserved AI Project) Tj ET
+BT /F1 7.4 Tf 0.30 0.30 0.30 rg 191.0 487.7 Td (Open the 'FlyRank Portfolio & Brand' project in Claude; voice card and tokens load automatically.) Tj ET
+BT /F2 7.4 Tf 0.20 0.20 0.20 rg 56.0 477.5 Td (Step 2: Draft in 3-Beat Shape) Tj ET
+BT /F1 7.4 Tf 0.30 0.30 0.30 rg 191.0 477.5 Td (Draft: \(1\) Concrete problem/failure, \(2\) Architectural decision & trade-off, \(3\) Measured outcome/proof.) Tj ET
+BT /F2 7.4 Tf 0.20 0.20 0.20 rg 56.0 467.3 Td (Step 3: Distill to 2 Sentences) Tj ET
+BT /F1 7.4 Tf 0.30 0.30 0.30 rg 191.0 467.3 Td (Condense into 2 plain, jargon-free sentences matching the Voice Card; paste into site/index.html.) Tj ET
+BT /F2 7.4 Tf 0.20 0.20 0.20 rg 56.0 457.1 Td (Step 4: Local Viewport Audit) Tj ET
+BT /F1 7.4 Tf 0.30 0.30 0.30 rg 191.0 457.1 Td (Preview locally at 375px mobile viewport to ensure tap targets >= 44px and zero horizontal overflow.) Tj ET
+BT /F2 7.4 Tf 0.20 0.20 0.20 rg 56.0 446.9 Td (Step 5: Verify Link Health) Tj ET
+BT /F1 7.4 Tf 0.30 0.30 0.30 rg 191.0 446.9 Td (Verify GitHub repository link and any live demo URLs return HTTP 200 OK.) Tj ET
+BT /F2 7.4 Tf 0.20 0.20 0.20 rg 56.0 436.7 Td (Step 6: Git Commit & Edge Deploy) Tj ET
+BT /F1 7.4 Tf 0.30 0.30 0.30 rg 191.0 436.7 Td (git commit -m 'feat\(work\): add case study 05' && git push origin main; deploys to Netlify in seconds.) Tj ET
+BT /F1 8.0 Tf 0.35 0.35 0.35 rg 46.0 38.0 Td (FlyRank General AI Fluency  -  The Plan to Keep Building  -  Jezreal Momoh) Tj ET
+BT /F1 8.0 Tf 0.35 0.35 0.35 rg 511.0 38.0 Td (Page 1 of 3) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612.0 792.0] /Contents 5 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+7 0 obj
+<< /Length 4966 >>
+stream
+BT /F2 9.2 Tf 0.05 0.05 0.05 rg 46.0 751.5 Td (4. Named Next Real Pieces of Work) Tj ET
+BT /F1 7.8 Tf 0.10 0.10 0.10 rg 46.0 736.5 Td (To prevent vague intentions, two concrete backend AI engineering capstones are formally queued as the next additions:) Tj ET
+q 0.92 0.92 0.92 rg 46.0 709.1 520.0 14.0 re f Q
+BT /F2 7.4 Tf 0.15 0.15 0.15 rg 50.0 713.1 Td (Case #) Tj ET
+BT /F2 7.4 Tf 0.15 0.15 0.15 rg 95.0 713.1 Td (Project Title) Tj ET
+BT /F2 7.4 Tf 0.15 0.15 0.15 rg 230.0 713.1 Td (Technology Stack) Tj ET
+BT /F2 7.4 Tf 0.15 0.15 0.15 rg 375.0 713.1 Td (Status & Deliverable Assets) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 50.0 700.6 Td (Case #05) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 95.0 700.6 Td (LLM Usage Metering & Billing Engine) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 230.0 700.6 Td (Python, FastAPI, SQLite WAL, Stripe Webhooks, Pydantic) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 375.0 700.6 Td (Production complete: 30/30 tests pass, 5/5 probes verified, integer microcents math) Tj ET
+q 0.97 0.97 0.97 rg 46.0 687.6 520.0 10.5 re f Q
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 50.0 690.1 Td (Case #06) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 95.0 690.1 Td (Social Media Studio Publisher) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 230.0 690.1 Td (Python, FastAPI, SQLite WAL, Discord Webhooks, Async Adapters) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 375.0 690.1 Td (Production complete: 35/35 tests pass, 6/6 probes verified, review state machine) Tj ET
+BT /F2 9.2 Tf 0.05 0.05 0.05 rg 46.0 678.1 Td (5. Three-Beat Narrative Draft for Case Study #05 \(Ready to Ship\)) Tj ET
+BT /F1 7.8 Tf 0.10 0.10 0.10 rg 46.0 663.1 Td (The complete three-beat copy for Case Study #05 is pre-authored below and ready for immediate HTML injection:) Tj ET
+q 0.96 0.96 0.96 rg 46.0 589.9 520.0 59.8 re f Q
+BT /F2 8.2 Tf 0.10 0.10 0.10 rg 54.0 639.2 Td (Case Study #05 Three-Beat Narrative Specification) Tj ET
+BT /F2 7.4 Tf 0.20 0.20 0.20 rg 56.0 627.2 Td (The Problem) Tj ET
+BT /F1 7.4 Tf 0.30 0.30 0.30 rg 191.0 627.2 Td (AI startups face silent margin collapse and negative cash flow from floating-point rounding drift and duplicate metering calls caused by network retries.) Tj ET
+BT /F2 7.4 Tf 0.20 0.20 0.20 rg 56.0 617.0 Td (What I Did & Decided) Tj ET
+BT /F1 7.4 Tf 0.30 0.30 0.30 rg 191.0 617.0 Td (Architected an idempotent metering proxy in FastAPI and SQLite WAL mode using pure-integer microcents math \($1 = 100M microcents\) and HMAC Stripe webhooks, enforcing hard 429/402 quota barriers before LLM compute.) Tj ET
+BT /F2 7.4 Tf 0.20 0.20 0.20 rg 56.0 606.8 Td (What Came of It) Tj ET
+BT /F1 7.4 Tf 0.30 0.30 0.30 rg 191.0 606.8 Td (Zero floating-point drift across 10,000 requests, 100% duplicate replay deduplication, and automated tenant tier upgrading on checkout session events.) Tj ET
+BT /F2 7.4 Tf 0.20 0.20 0.20 rg 56.0 596.6 Td (Distilled Card Copy) Tj ET
+BT /F1 7.4 Tf 0.30 0.30 0.30 rg 191.0 596.6 Td (Production-grade multi-tenant LLM billing engine with pure-integer microcents math and idempotent metering. Enforces pre-action 429/402 quota barriers and cryptographic Stripe synchronization with zero drift.) Tj ET
+BT /F2 9.2 Tf 0.05 0.05 0.05 rg 46.0 582.9 Td (6. Concrete Reminder Evidence \(Calendar Artifact & Recurrence\)) Tj ET
+BT /F1 7.8 Tf 0.10 0.10 0.10 rg 46.0 567.9 Td (A concrete recurring reminder is set to trigger regular maintenance. The schedule is codified in standard RFC 5545 iCalendar format:) Tj ET
+q 0.96 0.96 0.96 rg 46.0 474.3 520.0 80.2 re f Q
+BT /F2 8.2 Tf 0.10 0.10 0.10 rg 54.0 544.0 Td (Calendar Reminder Specification & Evidence) Tj ET
+BT /F2 7.4 Tf 0.20 0.20 0.20 rg 56.0 532.0 Td (Event Summary) Tj ET
+BT /F1 7.4 Tf 0.30 0.30 0.30 rg 191.0 532.0 Td (Add Case Study #05 to Portfolio: LLM Usage Metering & Billing Engine) Tj ET
+BT /F2 7.4 Tf 0.20 0.20 0.20 rg 56.0 521.8 Td (Start Timestamp) Tj ET
+BT /F1 7.4 Tf 0.30 0.30 0.30 rg 191.0 521.8 Td (Friday, November 27, 2026 at 10:00 AM \(Africa/Lagos, GMT+1\)) Tj ET
+BT /F2 7.4 Tf 0.20 0.20 0.20 rg 56.0 511.6 Td (Recurrence Rule \(RRULE\)) Tj ET
+BT /F1 7.4 Tf 0.30 0.30 0.30 rg 191.0 511.6 Td (FREQ=MONTHLY;BYMONTHDAY=27;COUNT=6 \(Standing monthly portfolio hygiene check\)) Tj ET
+BT /F2 7.4 Tf 0.20 0.20 0.20 rg 56.0 501.4 Td (Pre-Event Alarm) Tj ET
+BT /F1 7.4 Tf 0.30 0.30 0.30 rg 191.0 501.4 Td (30-minute display notification prior to start \(TRIGGER:-PT30M\)) Tj ET
+BT /F2 7.4 Tf 0.20 0.20 0.20 rg 56.0 491.2 Td (Artifact Path in Git) Tj ET
+BT /F1 7.4 Tf 0.30 0.30 0.30 rg 191.0 491.2 Td (portfolio/reminders/add-next-case-study.ics \(tracked and version-controlled\)) Tj ET
+BT /F2 7.4 Tf 0.20 0.20 0.20 rg 56.0 481.0 Td (Runbook Reference) Tj ET
+BT /F1 7.4 Tf 0.30 0.30 0.30 rg 191.0 481.0 Td (Links directly to portfolio/HOW_TO_ADD_A_CASE_STUDY.md for zero-friction resumption) Tj ET
+BT /F1 8.0 Tf 0.35 0.35 0.35 rg 46.0 38.0 Td (FlyRank General AI Fluency  -  The Plan to Keep Building  -  Jezreal Momoh) Tj ET
+BT /F1 8.0 Tf 0.35 0.35 0.35 rg 511.0 38.0 Td (Page 2 of 3) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612.0 792.0] /Contents 7 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+9 0 obj
+<< /Length 5155 >>
+stream
+BT /F2 9.2 Tf 0.05 0.05 0.05 rg 46.0 751.5 Td (7. Preserved Build Context: Claude Project Identity Kit) Tj ET
+BT /F1 7.8 Tf 0.10 0.10 0.10 rg 46.0 736.5 Td (Future updates are cheap because the entire brand context is preserved inside the 'FlyRank Portfolio & Brand' Claude Project and) Tj ET
+BT /F1 7.8 Tf 0.10 0.10 0.10 rg 46.0 726.1 Td (mirrored locally in Git. A new project card requires only a short 2-minute prompt rather than re-explaining the stack:) Tj ET
+q 0.96 0.96 0.96 rg 46.0 642.7 520.0 70.0 re f Q
+BT /F2 8.2 Tf 0.10 0.10 0.10 rg 54.0 702.2 Td (Preserved Identity Kit Elements) Tj ET
+BT /F2 7.4 Tf 0.20 0.20 0.20 rg 56.0 690.2 Td (Voice Card) Tj ET
+BT /F1 7.4 Tf 0.30 0.30 0.30 rg 191.0 690.2 Td (Direct, warm, plain, zero buzzwords. Prohibits 'cutting-edge', 'synergistic', and 'leveraging'.) Tj ET
+BT /F2 7.4 Tf 0.20 0.20 0.20 rg 56.0 680.0 Td (Proof Statement) Tj ET
+BT /F1 7.4 Tf 0.30 0.30 0.30 rg 191.0 680.0 Td (I build backend systems and practical AI tools in Go and Python, backed by production-tested APIs, multi-agent reviewers, resilient scrapers, and live serverless integrations.) Tj ET
+BT /F2 7.4 Tf 0.20 0.20 0.20 rg 56.0 669.8 Td (Core Stack Specification) Tj ET
+BT /F1 7.4 Tf 0.30 0.30 0.30 rg 191.0 669.8 Td (Go, Python, FastAPI, SQLite WAL, PostgreSQL, Docker, n8n, ReportLab, Netlify.) Tj ET
+BT /F2 7.4 Tf 0.20 0.20 0.20 rg 56.0 659.6 Td (Design Tokens) Tj ET
+BT /F1 7.4 Tf 0.30 0.30 0.30 rg 191.0 659.6 Td (Page: #faf9f6, Surface: #ffffff, Ink: #18181b, Muted: #52525b, Accent: #1d4ed8. Semantic HTML5, accessible contrast, 44px+ tap targets.) Tj ET
+BT /F2 7.4 Tf 0.20 0.20 0.20 rg 56.0 649.4 Td (One-Action CTA) Tj ET
+BT /F1 7.4 Tf 0.30 0.30 0.30 rg 191.0 649.4 Td (Direct Netlify contact form \(#contact\) + 15-minute Calendly intro call booking.) Tj ET
+BT /F2 9.2 Tf 0.05 0.05 0.05 rg 46.0 635.7 Td (8. AI as a Lifelong Career Partner) Tj ET
+BT /F1 7.8 Tf 0.10 0.10 0.10 rg 46.0 620.7 Td (In alignment with the AI Fluency framework, the AI assistant serves as an interactive thinking partner for continuous career) Tj ET
+BT /F1 7.8 Tf 0.10 0.10 0.10 rg 46.0 610.3 Td (development: mock-interviewing on real failure modes, drafting authentic LinkedIn build-in-public stories, stress-testing) Tj ET
+BT /F1 7.8 Tf 0.10 0.10 0.10 rg 46.0 599.9 Td (architectural trade-offs, and verifying that personal claims are rigorously backed by Git commit logs and reproducible test) Tj ET
+BT /F1 7.8 Tf 0.10 0.10 0.10 rg 46.0 589.5 Td (harnesses.) Tj ET
+BT /F2 9.2 Tf 0.05 0.05 0.05 rg 46.0 573.6 Td (9. Pass / Revise Criteria Verification Matrix) Tj ET
+q 0.92 0.92 0.92 rg 46.0 544.6 520.0 14.0 re f Q
+BT /F2 7.4 Tf 0.15 0.15 0.15 rg 50.0 548.6 Td (Rubric Criterion) Tj ET
+BT /F2 7.4 Tf 0.15 0.15 0.15 rg 155.0 548.6 Td (Brief Requirement) Tj ET
+BT /F2 7.4 Tf 0.15 0.15 0.15 rg 270.0 548.6 Td (Implementation Evidence in Package) Tj ET
+BT /F2 7.4 Tf 0.15 0.15 0.15 rg 490.0 548.6 Td (Evaluation Status) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 50.0 536.1 Td (Concrete Addition Note) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 155.0 536.1 Td (Specific steps & location, not a vague intention) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 270.0 536.1 Td (Mapped to div.project-grid in site/index.html; 6-step loop documented in HOW_TO_ADD_A_CASE_STUDY.md) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 490.0 536.1 Td (PASSED) Tj ET
+q 0.97 0.97 0.97 rg 46.0 523.1 520.0 10.5 re f Q
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 50.0 525.6 Td (Named Next Work) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 155.0 525.6 Td (A specific real project identified) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 270.0 525.6 Td (Case Study #05 named: LLM Metering & Billing Engine \(30/30 tests\); Case #06: Social Media Studio) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 490.0 525.6 Td (PASSED) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 50.0 515.1 Td (Concrete Reminder Set) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 155.0 515.1 Td (Calendar nudge or recurring note evidence) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 270.0 515.1 Td (RFC 5545 .ics file at reminders/add-next-case-study.ics; Monthly on the 27th for 6 months w/ 30m alarm) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 490.0 515.1 Td (PASSED) Tj ET
+q 0.97 0.97 0.97 rg 46.0 502.1 520.0 10.5 re f Q
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 50.0 504.6 Td (Preserved Build Context) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 155.0 504.6 Td (Claude Project identity kit preserved) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 270.0 504.6 Td (Voice Card, Proof Statement, Design Tokens, and CTA codified in Claude Project & Git repository) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 490.0 504.6 Td (PASSED) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 50.0 494.1 Td (Zero Divider Lines Rule) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 155.0 494.1 Td (Strict prohibition of HRFlowable / lines) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 270.0 494.1 Td (Pure typography, rounded cards/badges, whitespace hierarchy only across all 3 pages) Tj ET
+BT /F1 7.3 Tf 0.20 0.20 0.20 rg 490.0 494.1 Td (PASSED) Tj ET
+BT /F1 8.0 Tf 0.35 0.35 0.35 rg 46.0 38.0 Td (FlyRank General AI Fluency  -  The Plan to Keep Building  -  Jezreal Momoh) Tj ET
+BT /F1 8.0 Tf 0.35 0.35 0.35 rg 511.0 38.0 Td (Page 3 of 3) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612.0 792.0] /Contents 9 0 R /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> >>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000128 00000 n 
+0000000225 00000 n 
+0000000327 00000 n 
+0000006012 00000 n 
+0000006152 00000 n 
+0000011170 00000 n 
+0000011310 00000 n 
+0000016517 00000 n 
+trailer
+<< /Size 11 /Root 1 0 R >>
+startxref
+16658
+%%EOF
